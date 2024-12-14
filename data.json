@@ -1,0 +1,5642 @@
+[
+  {
+    "name": "a-large-small",
+    "class": "a-large-small"
+  },
+  {
+    "name": "accessibility",
+    "class": "accessibility"
+  },
+  {
+    "name": "user",
+    "class": "user"
+  },
+  {
+    "name": "users",
+    "class": "users"
+  },
+  {
+    "name": "user-check",
+    "class": "user-check"
+  },
+  {
+    "name": "user-circle",
+    "class": "user-circle"
+  },
+  {
+    "name": "user-focus",
+    "class": "user-focus"
+  },
+  {
+    "name": "user-minus",
+    "class": "user-minus"
+  },
+  {
+    "name": "user-plus",
+    "class": "user-plus"
+  },
+  {
+    "name": "user-search",
+    "class": "user-search"
+  },
+  {
+    "name": "user-x",
+    "class": "user-x"
+  },
+  {
+    "name": "ant",
+    "class": "ant"
+  },
+  {
+    "name": "bat",
+    "class": "bat"
+  },
+  {
+    "name": "bear",
+    "class": "bear"
+  },
+  {
+    "name": "bee",
+    "class": "bee"
+  },
+  {
+    "name": "bird",
+    "class": "bird"
+  },
+  {
+    "name": "bone",
+    "class": "bone"
+  },
+  {
+    "name": "cat",
+    "class": "cat"
+  },
+  {
+    "name": "cow",
+    "class": "cow"
+  },
+  {
+    "name": "crab",
+    "class": "crab"
+  },
+  {
+    "name": "crocodile",
+    "class": "crocodile"
+  },
+  {
+    "name": "dog",
+    "class": "dog"
+  },
+  {
+    "name": "dove",
+    "class": "dove"
+  },
+  {
+    "name": "dragon",
+    "class": "dragon"
+  },
+  {
+    "name": "fish",
+    "class": "fish"
+  },
+  {
+    "name": "fly",
+    "class": "fly"
+  },
+  {
+    "name": "fox",
+    "class": "fox"
+  },
+  {
+    "name": "frog",
+    "class": "frog"
+  },
+  {
+    "name": "giraffe",
+    "class": "giraffe"
+  },
+  {
+    "name": "horse",
+    "class": "horse"
+  },
+  {
+    "name": "a-arrow-down",
+    "class": "a-arrow-down"
+  },
+  {
+    "name": "a-arrow-up",
+    "class": "a-arrow-up"
+  },
+  {
+    "name": "arrow-down-circle",
+    "class": "arrow-down-circle"
+  },
+  {
+    "name": "arrow-down-left-circle",
+    "class": "arrow-down-left-circle"
+  },
+  {
+    "name": "arrow-down-right-circle",
+    "class": "arrow-down-right-circle"
+  },
+  {
+    "name": "arrow-down",
+    "class": "arrow-down"
+  },
+  {
+    "name": "arrow-down-left",
+    "class": "arrow-down-left"
+  },
+  {
+    "name": "arrow-down-right",
+    "class": "arrow-down-right"
+  },
+  {
+    "name": "arrow-left-circle",
+    "class": "arrow-left-circle"
+  },
+  {
+    "name": "arrow-left",
+    "class": "arrow-left"
+  },
+  {
+    "name": "arrow-right-circle",
+    "class": "arrow-right-circle"
+  },
+  {
+    "name": "arrow-right",
+    "class": "arrow-right"
+  },
+  {
+    "name": "arrow-up-circle",
+    "class": "arrow-up-circle"
+  },
+  {
+    "name": "arrow-up-left-circle",
+    "class": "arrow-up-left-circle"
+  },
+  {
+    "name": "arrow-up-right-circle",
+    "class": "arrow-up-right-circle"
+  },
+  {
+    "name": "arrow-up",
+    "class": "arrow-up"
+  },
+  {
+    "name": "arrow-up-left",
+    "class": "arrow-up-left"
+  },
+  {
+    "name": "arrow-up-right",
+    "class": "arrow-up-right"
+  },
+  {
+    "name": "behance",
+    "class": "behance"
+  },
+  {
+    "name": "discord",
+    "class": "discord"
+  },
+  {
+    "name": "dribbble",
+    "class": "dribbble"
+  },
+  {
+    "name": "facebook",
+    "class": "facebook"
+  },
+  {
+    "name": "figma",
+    "class": "figma"
+  },
+  {
+    "name": "framer",
+    "class": "framer"
+  },
+  {
+    "name": "github",
+    "class": "github"
+  },
+  {
+    "name": "gitlab",
+    "class": "gitlab"
+  },
+  {
+    "name": "google",
+    "class": "google"
+  },
+  {
+    "name": "instagram",
+    "class": "instagram"
+  },
+  {
+    "name": "linkedin",
+    "class": "linkedin"
+  },
+  {
+    "name": "mastodon",
+    "class": "mastodon"
+  },
+  {
+    "name": "messenger",
+    "class": "messenger"
+  },
+  {
+    "name": "pinterest",
+    "class": "pinterest"
+  },
+  {
+    "name": "reddit",
+    "class": "reddit"
+  },
+  {
+    "name": "sketch",
+    "class": "sketch"
+  },
+  {
+    "name": "slack",
+    "class": "slack"
+  },
+  {
+    "name": "snapchat",
+    "class": "snapchat"
+  },
+  {
+    "name": "telegram",
+    "class": "telegram"
+  },
+  {
+    "name": "tiktok",
+    "class": "tiktok"
+  },
+  {
+    "name": "twitter",
+    "class": "twitter"
+  },
+  {
+    "name": "vimeo",
+    "class": "vimeo"
+  },
+  {
+    "name": "whatsapp",
+    "class": "whatsapp"
+  },
+  {
+    "name": "youtube",
+    "class": "youtube"
+  },
+  {
+    "name": "archway",
+    "class": "archway"
+  },
+  {
+    "name": "bank",
+    "class": "bank"
+  },
+  {
+    "name": "building-2",
+    "class": "building-2"
+  },
+  {
+    "name": "building",
+    "class": "building"
+  },
+  {
+    "name": "bridge",
+    "class": "bridge"
+  },
+  {
+    "name": "castle",
+    "class": "castle"
+  },
+  {
+    "name": "church",
+    "class": "church"
+  },
+  {
+    "name": "city",
+    "class": "city"
+  },
+  {
+    "name": "factory",
+    "class": "factory"
+  },
+  {
+    "name": "government-building",
+    "class": "government-building"
+  },
+  {
+    "name": "home-2",
+    "class": "home-2"
+  },
+  {
+    "name": "home",
+    "class": "home"
+  },
+  {
+    "name": "hospital",
+    "class": "hospital"
+  },
+  {
+    "name": "house",
+    "class": "house"
+  },
+  {
+    "name": "library",
+    "class": "library"
+  },
+  {
+    "name": "monument",
+    "class": "monument"
+  },
+  {
+    "name": "office-building",
+    "class": "office-building"
+  },
+  {
+    "name": "pagoda",
+    "class": "pagoda"
+  },
+  {
+    "name": "school",
+    "class": "school"
+  },
+  {
+    "name": "shop",
+    "class": "shop"
+  },
+  {
+    "name": "stadium",
+    "class": "stadium"
+  },
+  {
+    "name": "store",
+    "class": "store"
+  },
+  {
+    "name": "warehouse",
+    "class": "warehouse"
+  },
+  {
+    "name": "bar-chart-2",
+    "class": "bar-chart-2"
+  },
+  {
+    "name": "bar-chart-3",
+    "class": "bar-chart-3"
+  },
+  {
+    "name": "bar-chart-4",
+    "class": "bar-chart-4"
+  },
+  {
+    "name": "bar-chart",
+    "class": "bar-chart"
+  },
+  {
+    "name": "chart-area",
+    "class": "chart-area"
+  },
+  {
+    "name": "chart-bar",
+    "class": "chart-bar"
+  },
+  {
+    "name": "chart-line",
+    "class": "chart-line"
+  },
+  {
+    "name": "chart-pie",
+    "class": "chart-pie"
+  },
+  {
+    "name": "pie-chart",
+    "class": "pie-chart"
+  },
+  {
+    "name": "trend-down",
+    "class": "trend-down"
+  },
+  {
+    "name": "trend-up",
+    "class": "trend-up"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "chat",
+    "class": "chat"
+  },
+  {
+    "name": "mail",
+    "class": "mail"
+  },
+  {
+    "name": "megaphone",
+    "class": "megaphone"
+  },
+  {
+    "name": "phone-call",
+    "class": "phone-call"
+  },
+  {
+    "name": "phone-forwarded",
+    "class": "phone-forwarded"
+  },
+  {
+    "name": "phone-incoming",
+    "class": "phone-incoming"
+  },
+  {
+    "name": "phone-missed",
+    "class": "phone-missed"
+  },
+  {
+    "name": "phone-off",
+    "class": "phone-off"
+  },
+  {
+    "name": "phone-outgoing",
+    "class": "phone-outgoing"
+  },
+  {
+    "name": "phone",
+    "class": "phone"
+  },
+  {
+    "name": "rss",
+    "class": "rss"
+  },
+  {
+    "name": "send",
+    "class": "send"
+  },
+  {
+    "name": "signal-high",
+    "class": "signal-high"
+  },
+  {
+    "name": "signal-low",
+    "class": "signal-low"
+  },
+  {
+    "name": "signal-medium",
+    "class": "signal-medium"
+  },
+  {
+    "name": "signal-none",
+    "class": "signal-none"
+  },
+  {
+    "name": "signal-slash",
+    "class": "signal-slash"
+  },
+  {
+    "name": "signal",
+    "class": "signal"
+  },
+  {
+    "name": "voicemail",
+    "class": "voicemail"
+  },
+  {
+    "name": "antenna-bars-1",
+    "class": "antenna-bars-1"
+  },
+  {
+    "name": "antenna-bars-2",
+    "class": "antenna-bars-2"
+  },
+  {
+    "name": "antenna-bars-3",
+    "class": "antenna-bars-3"
+  },
+  {
+    "name": "antenna-bars-4",
+    "class": "antenna-bars-4"
+  },
+  {
+    "name": "antenna-bars-5",
+    "class": "antenna-bars-5"
+  },
+  {
+    "name": "antenna",
+    "class": "antenna"
+  },
+  {
+    "name": "ethernet",
+    "class": "ethernet"
+  },
+  {
+    "name": "lan",
+    "class": "lan"
+  },
+  {
+    "name": "network",
+    "class": "network"
+  },
+  {
+    "name": "router",
+    "class": "router"
+  },
+  {
+    "name": "wifi-high",
+    "class": "wifi-high"
+  },
+  {
+    "name": "wifi-low",
+    "class": "wifi-low"
+  },
+  {
+    "name": "wifi-medium",
+    "class": "wifi-medium"
+  },
+  {
+    "name": "wifi-none",
+    "class": "wifi-none"
+  },
+  {
+    "name": "wifi-off",
+    "class": "wifi-off"
+  },
+  {
+    "name": "wifi",
+    "class": "wifi"
+  },
+  {
+    "name": "cursor",
+    "class": "cursor"
+  },
+  {
+    "name": "cursor-text",
+    "class": "cursor-text"
+  },
+  {
+    "name": "Design",
+    "class": "Design"
+  },
+  {
+    "name": "adjustments-alt",
+    "class": "adjustments-alt"
+  },
+  {
+    "name": "adjustments-horizontal",
+    "class": "adjustments-horizontal"
+  },
+  {
+    "name": "adjustments-vertical",
+    "class": "adjustments-vertical"
+  },
+  {
+    "name": "adjustments",
+    "class": "adjustments"
+  },
+  {
+    "name": "brush",
+    "class": "brush"
+  },
+  {
+    "name": "color-picker",
+    "class": "color-picker"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "crop",
+    "class": "crop"
+  },
+  {
+    "name": "droplet",
+    "class": "droplet"
+  },
+  {
+    "name": "eyedropper",
+    "class": "eyedropper"
+  },
+  {
+    "name": "feather",
+    "class": "feather"
+  },
+  {
+    "name": "figma",
+    "class": "figma"
+  },
+  {
+    "name": "framer",
+    "class": "framer"
+  },
+  {
+    "name": "gradient",
+    "class": "gradient"
+  },
+  {
+    "name": "layout-dashboard",
+    "class": "layout-dashboard"
+  },
+  {
+    "name": "layout-grid",
+    "class": "layout-grid"
+  },
+  {
+    "name": "layout-list",
+    "class": "layout-list"
+  },
+  {
+    "name": "layout-template",
+    "class": "layout-template"
+  },
+  {
+    "name": "layout",
+    "class": "layout"
+  },
+  {
+    "name": "magic-wand",
+    "class": "magic-wand"
+  },
+  {
+    "name": "move-diagonal-2",
+    "class": "move-diagonal-2"
+  },
+  {
+    "name": "move-diagonal",
+    "class": "move-diagonal"
+  },
+  {
+    "name": "move-horizontal",
+    "class": "move-horizontal"
+  },
+  {
+    "name": "move-vertical",
+    "class": "move-vertical"
+  },
+  {
+    "name": "palette",
+    "class": "palette"
+  },
+  {
+    "name": "ruler",
+    "class": "ruler"
+  },
+  {
+    "name": "scissors",
+    "class": "scissors"
+  },
+  {
+    "name": "selection",
+    "class": "selection"
+  },
+  {
+    "name": "sketch",
+    "class": "sketch"
+  },
+  {
+    "name": "sliders-horizontal",
+    "class": "sliders-horizontal"
+  },
+  {
+    "name": "sliders-vertical",
+    "class": "sliders-vertical"
+  },
+  {
+    "name": "sliders",
+    "class": "sliders"
+  },
+  {
+    "name": "Development",
+    "class": "Development"
+  },
+  {
+    "name": "activity",
+    "class": "activity"
+  },
+  {
+    "name": "archive",
+    "class": "archive"
+  },
+  {
+    "name": "bar-chart-2",
+    "class": "bar-chart-2"
+  },
+  {
+    "name": "bar-chart",
+    "class": "bar-chart"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "battery-full",
+    "class": "battery-full"
+  },
+  {
+    "name": "battery-low",
+    "class": "battery-low"
+  },
+  {
+    "name": "battery-medium",
+    "class": "battery-medium"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth-connected",
+    "class": "bluetooth-connected"
+  },
+  {
+    "name": "bluetooth-searching",
+    "class": "bluetooth-searching"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "book",
+    "class": "book"
+  },
+  {
+    "name": "bookmark",
+    "class": "bookmark"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "Devices",
+    "class": "Devices"
+  },
+  {
+    "name": "airpods",
+    "class": "airpods"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "desktop-computer",
+    "class": "desktop-computer"
+  },
+  {
+    "name": "device-phone-camera",
+    "class": "device-phone-camera"
+  },
+  {
+    "name": "device-phone-mobile",
+    "class": "device-phone-mobile"
+  },
+  {
+    "name": "device-phone-speaker",
+    "class": "device-phone-speaker"
+  },
+  {
+    "name": "device-tablet-camera",
+    "class": "device-tablet-camera"
+  },
+  {
+    "name": "device-tablet-mobile",
+    "class": "device-tablet-mobile"
+  },
+  {
+    "name": "device-tablet-speaker",
+    "class": "device-tablet-speaker"
+  },
+  {
+    "name": "devices",
+    "class": "devices"
+  },
+  {
+    "name": "drone",
+    "class": "drone"
+  },
+  {
+    "name": "gamepad-2",
+    "class": "gamepad-2"
+  },
+  {
+    "name": "gamepad",
+    "class": "gamepad"
+  },
+  {
+    "name": "gps",
+    "class": "gps"
+  },
+  {
+    "name": "hard-drive",
+    "class": "hard-drive"
+  },
+  {
+    "name": "headphones",
+    "class": "headphones"
+  },
+  {
+    "name": "keyboard",
+    "class": "keyboard"
+  },
+  {
+    "name": "laptop-2",
+    "class": "laptop-2"
+  },
+  {
+    "name": "laptop",
+    "class": "laptop"
+  },
+  {
+    "name": "mic-off",
+    "class": "mic-off"
+  },
+  {
+    "name": "mic",
+    "class": "mic"
+  },
+  {
+    "name": "monitor",
+    "class": "monitor"
+  },
+  {
+    "name": "mouse",
+    "class": "mouse"
+  },
+  {
+    "name": "phone-call",
+    "class": "phone-call"
+  },
+  {
+    "name": "phone-forwarded",
+    "class": "phone-forwarded"
+  },
+  {
+    "name": "phone-incoming",
+    "class": "phone-incoming"
+  },
+  {
+    "name": "phone-missed",
+    "class": "phone-missed"
+  },
+  {
+    "name": "phone-off",
+    "class": "phone-off"
+  },
+  {
+    "name": "phone-outgoing",
+    "class": "phone-outgoing"
+  },
+  {
+    "name": "phone",
+    "class": "phone"
+  },
+  {
+    "name": "pocket-knife",
+    "class": "pocket-knife"
+  },
+  {
+    "name": "power",
+    "class": "power"
+  },
+  {
+    "name": "printer",
+    "class": "printer"
+  },
+  {
+    "name": "radio",
+    "class": "radio"
+  },
+  {
+    "name": "remote",
+    "class": "remote"
+  },
+  {
+    "name": "rss",
+    "class": "rss"
+  },
+  {
+    "name": "scanner",
+    "class": "scanner"
+  },
+  {
+    "name": "server",
+    "class": "server"
+  },
+  {
+    "name": "smartphone",
+    "class": "smartphone"
+  },
+  {
+    "name": "speakerphone",
+    "class": "speakerphone"
+  },
+  {
+    "name": "tablet",
+    "class": "tablet"
+  },
+  {
+    "name": "tv-2",
+    "class": "tv-2"
+  },
+  {
+    "name": "tv",
+    "class": "tv"
+  },
+  {
+    "name": "umbrella",
+    "class": "umbrella"
+  },
+  {
+    "name": "usb",
+    "class": "usb"
+  },
+  {
+    "name": "video-off",
+    "class": "video-off"
+  },
+  {
+    "name": "video",
+    "class": "video"
+  },
+  {
+    "name": "watch",
+    "class": "watch"
+  },
+  {
+    "name": "webcam",
+    "class": "webcam"
+  },
+  {
+    "name": "Emoji",
+    "class": "Emoji"
+  },
+  {
+    "name": "angry",
+    "class": "angry"
+  },
+  {
+    "name": "anxious",
+    "class": "anxious"
+  },
+  {
+    "name": "confused",
+    "class": "confused"
+  },
+  {
+    "name": "cool",
+    "class": "cool"
+  },
+  {
+    "name": "crying",
+    "class": "crying"
+  },
+  {
+    "name": "dizzy",
+    "class": "dizzy"
+  },
+  {
+    "name": "expressionless",
+    "class": "expressionless"
+  },
+  {
+    "name": "frown",
+    "class": "frown"
+  },
+  {
+    "name": "grimace",
+    "class": "grimace"
+  },
+  {
+    "name": "happy",
+    "class": "happy"
+  },
+  {
+    "name": "heart",
+    "class": "heart"
+  },
+  {
+    "name": "kiss",
+    "class": "kiss"
+  },
+  {
+    "name": "laugh",
+    "class": "laugh"
+  },
+  {
+    "name": "meh",
+    "class": "meh"
+  },
+  {
+    "name": "neutral",
+    "class": "neutral"
+  },
+  {
+    "name": "sad",
+    "class": "sad"
+  },
+  {
+    "name": "shocked",
+    "class": "shocked"
+  },
+  {
+    "name": "smile",
+    "class": "smile"
+  },
+  {
+    "name": "surprised",
+    "class": "surprised"
+  },
+  {
+    "name": "tongue",
+    "class": "tongue"
+  },
+  {
+    "name": "wink",
+    "class": "wink"
+  },
+  {
+    "name": "Files",
+    "class": "Files"
+  },
+  {
+    "name": "archive",
+    "class": "archive"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "download-cloud",
+    "class": "download-cloud"
+  },
+  {
+    "name": "file-archive",
+    "class": "file-archive"
+  },
+  {
+    "name": "file-audio",
+    "class": "file-audio"
+  },
+  {
+    "name": "file-axis-3d",
+    "class": "file-axis-3d"
+  },
+  {
+    "name": "file-badge-2",
+    "class": "file-badge-2"
+  },
+  {
+    "name": "file-badge",
+    "class": "file-badge"
+  },
+  {
+    "name": "file-bar-chart-2",
+    "class": "file-bar-chart-2"
+  },
+  {
+    "name": "file-bar-chart",
+    "class": "file-bar-chart"
+  },
+  {
+    "name": "file-blank",
+    "class": "file-blank"
+  },
+  {
+    "name": "file-box",
+    "class": "file-box"
+  },
+  {
+    "name": "file-check-2",
+    "class": "file-check-2"
+  },
+  {
+    "name": "file-check",
+    "class": "file-check"
+  },
+  {
+    "name": "file-clock",
+    "class": "file-clock"
+  },
+  {
+    "name": "file-cloud",
+    "class": "file-cloud"
+  },
+  {
+    "name": "file-code",
+    "class": "file-code"
+  },
+  {
+    "name": "file-cog-2",
+    "class": "file-cog-2"
+  },
+  {
+    "name": "file-cog",
+    "class": "file-cog"
+  },
+  {
+    "name": "file-css",
+    "class": "file-css"
+  },
+  {
+    "name": "file-database",
+    "class": "file-database"
+  },
+  {
+    "name": "file-diff",
+    "class": "file-diff"
+  },
+  {
+    "name": "file-digit",
+    "class": "file-digit"
+  },
+  {
+    "name": "file-doc",
+    "class": "file-doc"
+  },
+  {
+    "name": "file-download",
+    "class": "file-download"
+  },
+  {
+    "name": "file-edit",
+    "class": "file-edit"
+  },
+  {
+    "name": "file-eps",
+    "class": "file-eps"
+  },
+  {
+    "name": "file-excel",
+    "class": "file-excel"
+  },
+  {
+    "name": "file-heart",
+    "class": "file-heart"
+  },
+  {
+    "name": "file-html",
+    "class": "file-html"
+  },
+  {
+    "name": "file-image",
+    "class": "file-image"
+  },
+  {
+    "name": "file-input",
+    "class": "file-input"
+  },
+  {
+    "name": "file-json",
+    "class": "file-json"
+  },
+  {
+    "name": "file-jsx",
+    "class": "file-jsx"
+  },
+  {
+    "name": "file-key",
+    "class": "file-key"
+  },
+  {
+    "name": "file-lock-2",
+    "class": "file-lock-2"
+  },
+  {
+    "name": "file-lock",
+    "class": "file-lock"
+  },
+  {
+    "name": "file-magnifying-glass",
+    "class": "file-magnifying-glass"
+  },
+  {
+    "name": "file-minus-2",
+    "class": "file-minus-2"
+  },
+  {
+    "name": "file-minus",
+    "class": "file-minus"
+  },
+  {
+    "name": "file-output",
+    "class": "file-output"
+  },
+  {
+    "name": "file-pdf",
+    "class": "file-pdf"
+  },
+  {
+    "name": "file-percent",
+    "class": "file-percent"
+  },
+  {
+    "name": "file-plus-2",
+    "class": "file-plus-2"
+  },
+  {
+    "name": "file-plus",
+    "class": "file-plus"
+  },
+  {
+    "name": "file-powerpoint",
+    "class": "file-powerpoint"
+  },
+  {
+    "name": "file-question",
+    "class": "file-question"
+  },
+  {
+    "name": "file-search",
+    "class": "file-search"
+  },
+  {
+    "name": "file-settings",
+    "class": "file-settings"
+  },
+  {
+    "name": "file-shield-2",
+    "class": "file-shield-2"
+  },
+  {
+    "name": "file-shield",
+    "class": "file-shield"
+  },
+  {
+    "name": "file-spreadsheet",
+    "class": "file-spreadsheet"
+  },
+  {
+    "name": "file-symlink",
+    "class": "file-symlink"
+  },
+  {
+    "name": "file-text",
+    "class": "file-text"
+  },
+  {
+    "name": "file-type",
+    "class": "file-type"
+  },
+  {
+    "name": "file-upload",
+    "class": "file-upload"
+  },
+  {
+    "name": "file-video",
+    "class": "file-video"
+  },
+  {
+    "name": "file-warning",
+    "class": "file-warning"
+  },
+  {
+    "name": "file-x-2",
+    "class": "file-x-2"
+  },
+  {
+    "name": "file-x",
+    "class": "file-x"
+  },
+  {
+    "name": "file",
+    "class": "file"
+  },
+  {
+    "name": "folder-archive",
+    "class": "folder-archive"
+  },
+  {
+    "name": "folder-clock",
+    "class": "folder-clock"
+  },
+  {
+    "name": "folder-closed",
+    "class": "folder-closed"
+  },
+  {
+    "name": "folder-cog",
+    "class": "folder-cog"
+  },
+  {
+    "name": "folder-download",
+    "class": "folder-download"
+  },
+  {
+    "name": "folder-git",
+    "class": "folder-git"
+  },
+  {
+    "name": "folder-input",
+    "class": "folder-input"
+  },
+  {
+    "name": "folder-lock",
+    "class": "folder-lock"
+  },
+  {
+    "name": "folder-minus",
+    "class": "folder-minus"
+  },
+  {
+    "name": "folder-open",
+    "class": "folder-open"
+  },
+  {
+    "name": "folder-output",
+    "class": "folder-output"
+  },
+  {
+    "name": "folder-plus",
+    "class": "folder-plus"
+  },
+  {
+    "name": "folder-symlink",
+    "class": "folder-symlink"
+  },
+  {
+    "name": "folder-upload",
+    "class": "folder-upload"
+  },
+  {
+    "name": "folder-x",
+    "class": "folder-x"
+  },
+  {
+    "name": "folder",
+    "class": "folder"
+  },
+  {
+    "name": "folders",
+    "class": "folders"
+  },
+  {
+    "name": "git-branch-plus",
+    "class": "git-branch-plus"
+  },
+  {
+    "name": "git-branch",
+    "class": "git-branch"
+  },
+  {
+    "name": "git-commit",
+    "class": "git-commit"
+  },
+  {
+    "name": "git-diff",
+    "class": "git-diff"
+  },
+  {
+    "name": "git-fork",
+    "class": "git-fork"
+  },
+  {
+    "name": "git-merge",
+    "class": "git-merge"
+  },
+  {
+    "name": "git-pull-request-closed",
+    "class": "git-pull-request-closed"
+  },
+  {
+    "name": "git-pull-request-draft",
+    "class": "git-pull-request-draft"
+  },
+  {
+    "name": "git-pull-request",
+    "class": "git-pull-request"
+  },
+  {
+    "name": "hard-drive",
+    "class": "hard-drive"
+  },
+  {
+    "name": "paperclip",
+    "class": "paperclip"
+  },
+  {
+    "name": "upload-cloud",
+    "class": "upload-cloud"
+  },
+  {
+    "name": "Finance",
+    "class": "Finance"
+  },
+  {
+    "name": "banknote",
+    "class": "banknote"
+  },
+  {
+    "name": "coin",
+    "class": "coin"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "currency-bitcoin",
+    "class": "currency-bitcoin"
+  },
+  {
+    "name": "currency-dollar",
+    "class": "currency-dollar"
+  },
+  {
+    "name": "currency-euro",
+    "class": "currency-euro"
+  },
+  {
+    "name": "currency-pound",
+    "class": "currency-pound"
+  },
+  {
+    "name": "currency-rupee",
+    "class": "currency-rupee"
+  },
+  {
+    "name": "currency-yen",
+    "class": "currency-yen"
+  },
+  {
+    "name": "gift",
+    "class": "gift"
+  },
+  {
+    "name": "money-bag",
+    "class": "money-bag"
+  },
+  {
+    "name": "percentage",
+    "class": "percentage"
+  },
+  {
+    "name": "piggy-bank",
+    "class": "piggy-bank"
+  },
+  {
+    "name": "receipt",
+    "class": "receipt"
+  },
+  {
+    "name": "safe",
+    "class": "safe"
+  },
+  {
+    "name": "scale",
+    "class": "scale"
+  },
+  {
+    "name": "shopping-bag",
+    "class": "shopping-bag"
+  },
+  {
+    "name": "shopping-cart",
+    "class": "shopping-cart"
+  },
+  {
+    "name": "tag",
+    "class": "tag"
+  },
+  {
+    "name": "wallet",
+    "class": "wallet"
+  },
+  {
+    "name": "Food & beverage",
+    "class": "Food & beverage"
+  },
+  {
+    "name": "apple",
+    "class": "apple"
+  },
+  {
+    "name": "banana",
+    "class": "banana"
+  },
+  {
+    "name": "beaker",
+    "class": "beaker"
+  },
+  {
+    "name": "beef",
+    "class": "beef"
+  },
+  {
+    "name": "beer",
+    "class": "beer"
+  },
+  {
+    "name": "bone",
+    "class": "bone"
+  },
+  {
+    "name": "bottle",
+    "class": "bottle"
+  },
+  {
+    "name": "bowl",
+    "class": "bowl"
+  },
+  {
+    "name": "bread",
+    "class": "bread"
+  },
+  {
+    "name": "cake",
+    "class": "cake"
+  },
+  {
+    "name": "candy",
+    "class": "candy"
+  },
+  {
+    "name": "cheese",
+    "class": "cheese"
+  },
+  {
+    "name": "cherry",
+    "class": "cherry"
+  },
+  {
+    "name": "chicken",
+    "class": "chicken"
+  },
+  {
+    "name": "chocolate-bar",
+    "class": "chocolate-bar"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "cookie",
+    "class": "cookie"
+  },
+  {
+    "name": "cooking-pot",
+    "class": "cooking-pot"
+  },
+  {
+    "name": "corn",
+    "class": "corn"
+  },
+  {
+    "name": "croissant",
+    "class": "croissant"
+  },
+  {
+    "name": "cup-straw",
+    "class": "cup-straw"
+  },
+  {
+    "name": "donut",
+    "class": "donut"
+  },
+  {
+    "name": "drumstick",
+    "class": "drumstick"
+  },
+  {
+    "name": "egg",
+    "class": "egg"
+  },
+  {
+    "name": "fish",
+    "class": "fish"
+  },
+  {
+    "name": "fork-knife",
+    "class": "fork-knife"
+  },
+  {
+    "name": "grapes",
+    "class": "grapes"
+  },
+  {
+    "name": "hamburger",
+    "class": "hamburger"
+  },
+  {
+    "name": "hotdog",
+    "class": "hotdog"
+  },
+  {
+    "name": "ice-cream",
+    "class": "ice-cream"
+  },
+  {
+    "name": "juice",
+    "class": "juice"
+  },
+  {
+    "name": "kebab",
+    "class": "kebab"
+  },
+  {
+    "name": "lemon",
+    "class": "lemon"
+  },
+  {
+    "name": "lollipop",
+    "class": "lollipop"
+  },
+  {
+    "name": "meat",
+    "class": "meat"
+  },
+  {
+    "name": "milk",
+    "class": "milk"
+  },
+  {
+    "name": "orange-slice",
+    "class": "orange-slice"
+  },
+  {
+    "name": "package",
+    "class": "package"
+  },
+  {
+    "name": "peach",
+    "class": "peach"
+  },
+  {
+    "name": "pear",
+    "class": "pear"
+  },
+  {
+    "name": "pepper",
+    "class": "pepper"
+  },
+  {
+    "name": "pie",
+    "class": "pie"
+  },
+  {
+    "name": "pizza",
+    "class": "pizza"
+  },
+  {
+    "name": "plate",
+    "class": "plate"
+  },
+  {
+    "name": "popcorn",
+    "class": "popcorn"
+  },
+  {
+    "name": "salad",
+    "class": "salad"
+  },
+  {
+    "name": "salt-pepper",
+    "class": "salt-pepper"
+  },
+  {
+    "name": "sandwich",
+    "class": "sandwich"
+  },
+  {
+    "name": "sausage",
+    "class": "sausage"
+  },
+  {
+    "name": "shrimp",
+    "class": "shrimp"
+  },
+  {
+    "name": "soda",
+    "class": "soda"
+  },
+  {
+    "name": "spoon",
+    "class": "spoon"
+  },
+  {
+    "name": "steak",
+    "class": "steak"
+  },
+  {
+    "name": "strawberry",
+    "class": "strawberry"
+  },
+  {
+    "name": "taco",
+    "class": "taco"
+  },
+  {
+    "name": "tea",
+    "class": "tea"
+  },
+  {
+    "name": "toast",
+    "class": "toast"
+  },
+  {
+    "name": "water",
+    "class": "water"
+  },
+  {
+    "name": "wine",
+    "class": "wine"
+  },
+  {
+    "name": "Gaming",
+    "class": "Gaming"
+  },
+  {
+    "name": "ball-baseball",
+    "class": "ball-baseball"
+  },
+  {
+    "name": "ball-basketball",
+    "class": "ball-basketball"
+  },
+  {
+    "name": "ball-bowling",
+    "class": "ball-bowling"
+  },
+  {
+    "name": "ball-football-american",
+    "class": "ball-football-american"
+  },
+  {
+    "name": "ball-football",
+    "class": "ball-football"
+  },
+  {
+    "name": "ball-tennis",
+    "class": "ball-tennis"
+  },
+  {
+    "name": "balls-pool",
+    "class": "balls-pool"
+  },
+  {
+    "name": "cards",
+    "class": "cards"
+  },
+  {
+    "name": "controller",
+    "class": "controller"
+  },
+  {
+    "name": "dice-1",
+    "class": "dice-1"
+  },
+  {
+    "name": "dice-2",
+    "class": "dice-2"
+  },
+  {
+    "name": "dice-3",
+    "class": "dice-3"
+  },
+  {
+    "name": "dice-4",
+    "class": "dice-4"
+  },
+  {
+    "name": "dice-5",
+    "class": "dice-5"
+  },
+  {
+    "name": "dice-6",
+    "class": "dice-6"
+  },
+  {
+    "name": "dice",
+    "class": "dice"
+  },
+  {
+    "name": "gamepad",
+    "class": "gamepad"
+  },
+  {
+    "name": "ghost",
+    "class": "ghost"
+  },
+  {
+    "name": "heart",
+    "class": "heart"
+  },
+  {
+    "name": "horse",
+    "class": "horse"
+  },
+  {
+    "name": "king",
+    "class": "king"
+  },
+  {
+    "name": "magic-wand",
+    "class": "magic-wand"
+  },
+  {
+    "name": "medal",
+    "class": "medal"
+  },
+  {
+    "name": "pacman",
+    "class": "pacman"
+  },
+  {
+    "name": "puzzle-piece",
+    "class": "puzzle-piece"
+  },
+  {
+    "name": "queen",
+    "class": "queen"
+  },
+  {
+    "name": "ring",
+    "class": "ring"
+  },
+  {
+    "name": "rocket",
+    "class": "rocket"
+  },
+  {
+    "name": "shield",
+    "class": "shield"
+  },
+  {
+    "name": "skull",
+    "class": "skull"
+  },
+  {
+    "name": "spades",
+    "class": "spades"
+  },
+  {
+    "name": "sword",
+    "class": "sword"
+  },
+  {
+    "name": "target",
+    "class": "target"
+  },
+  {
+    "name": "trophy",
+    "class": "trophy"
+  },
+  {
+    "name": "Home",
+    "class": "Home"
+  },
+  {
+    "name": "air-vent",
+    "class": "air-vent"
+  },
+  {
+    "name": "alarm-clock",
+    "class": "alarm-clock"
+  },
+  {
+    "name": "alarm-smoke",
+    "class": "alarm-smoke"
+  },
+  {
+    "name": "bath",
+    "class": "bath"
+  },
+  {
+    "name": "bed-double",
+    "class": "bed-double"
+  },
+  {
+    "name": "bed-single",
+    "class": "bed-single"
+  },
+  {
+    "name": "bed",
+    "class": "bed"
+  },
+  {
+    "name": "blinds",
+    "class": "blinds"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "book",
+    "class": "book"
+  },
+  {
+    "name": "bookmark",
+    "class": "bookmark"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "chair",
+    "class": "chair"
+  },
+  {
+    "name": "couch",
+    "class": "couch"
+  },
+  {
+    "name": "door-closed",
+    "class": "door-closed"
+  },
+  {
+    "name": "door-open",
+    "class": "door-open"
+  },
+  {
+    "name": "door",
+    "class": "door"
+  },
+  {
+    "name": "fan",
+    "class": "fan"
+  },
+  {
+    "name": "fire-extinguisher",
+    "class": "fire-extinguisher"
+  },
+  {
+    "name": "first-aid-kit",
+    "class": "first-aid-kit"
+  },
+  {
+    "name": "fridge",
+    "class": "fridge"
+  },
+  {
+    "name": "garage",
+    "class": "garage"
+  },
+  {
+    "name": "gift",
+    "class": "gift"
+  },
+  {
+    "name": "hanger",
+    "class": "hanger"
+  },
+  {
+    "name": "home-2",
+    "class": "home-2"
+  },
+  {
+    "name": "home",
+    "class": "home"
+  },
+  {
+    "name": "house",
+    "class": "house"
+  },
+  {
+    "name": "key",
+    "class": "key"
+  },
+  {
+    "name": "lamp-ceiling",
+    "class": "lamp-ceiling"
+  },
+  {
+    "name": "lamp-desk",
+    "class": "lamp-desk"
+  },
+  {
+    "name": "lamp-floor",
+    "class": "lamp-floor"
+  },
+  {
+    "name": "lamp-wall-down",
+    "class": "lamp-wall-down"
+  },
+  {
+    "name": "lamp-wall-up",
+    "class": "lamp-wall-up"
+  },
+  {
+    "name": "lamp",
+    "class": "lamp"
+  },
+  {
+    "name": "lightbulb-off",
+    "class": "lightbulb-off"
+  },
+  {
+    "name": "lightbulb",
+    "class": "lightbulb"
+  },
+  {
+    "name": "mailbox",
+    "class": "mailbox"
+  },
+  {
+    "name": "map-pin",
+    "class": "map-pin"
+  },
+  {
+    "name": "microwave",
+    "class": "microwave"
+  },
+  {
+    "name": "outlet",
+    "class": "outlet"
+  },
+  {
+    "name": "oven",
+    "class": "oven"
+  },
+  {
+    "name": "painting",
+    "class": "painting"
+  },
+  {
+    "name": "plant",
+    "class": "plant"
+  },
+  {
+    "name": "plug-zap",
+    "class": "plug-zap"
+  },
+  {
+    "name": "power",
+    "class": "power"
+  },
+  {
+    "name": "radio",
+    "class": "radio"
+  },
+  {
+    "name": "refrigerator",
+    "class": "refrigerator"
+  },
+  {
+    "name": "remote",
+    "class": "remote"
+  },
+  {
+    "name": "ruler",
+    "class": "ruler"
+  },
+  {
+    "name": "scale",
+    "class": "scale"
+  },
+  {
+    "name": "scissors",
+    "class": "scissors"
+  },
+  {
+    "name": "shower",
+    "class": "shower"
+  },
+  {
+    "name": "sofa",
+    "class": "sofa"
+  },
+  {
+    "name": "toilet-paper",
+    "class": "toilet-paper"
+  },
+  {
+    "name": "toilet",
+    "class": "toilet"
+  },
+  {
+    "name": "trash-2",
+    "class": "trash-2"
+  },
+  {
+    "name": "trash",
+    "class": "trash"
+  },
+  {
+    "name": "tv-2",
+    "class": "tv-2"
+  },
+  {
+    "name": "tv",
+    "class": "tv"
+  },
+  {
+    "name": "vacuum-cleaner",
+    "class": "vacuum-cleaner"
+  },
+  {
+    "name": "washing-machine",
+    "class": "washing-machine"
+  },
+  {
+    "name": "window",
+    "class": "window"
+  },
+  {
+    "name": "Layout",
+    "class": "Layout"
+  },
+  {
+    "name": "align-bottom",
+    "class": "align-bottom"
+  },
+  {
+    "name": "align-center-horizontal",
+    "class": "align-center-horizontal"
+  },
+  {
+    "name": "align-center-vertical",
+    "class": "align-center-vertical"
+  },
+  {
+    "name": "align-center",
+    "class": "align-center"
+  },
+  {
+    "name": "align-end-horizontal",
+    "class": "align-end-horizontal"
+  },
+  {
+    "name": "align-end-vertical",
+    "class": "align-end-vertical"
+  },
+  {
+    "name": "align-horizontal-distribute-center",
+    "class": "align-horizontal-distribute-center"
+  },
+  {
+    "name": "align-horizontal-distribute-end",
+    "class": "align-horizontal-distribute-end"
+  },
+  {
+    "name": "...source",
+    "class": "...source"
+  },
+  {
+    "name": "align-justify",
+    "class": "align-justify"
+  },
+  {
+    "name": "align-left",
+    "class": "align-left"
+  },
+  {
+    "name": "align-right",
+    "class": "align-right"
+  },
+  {
+    "name": "align-start-horizontal",
+    "class": "align-start-horizontal"
+  },
+  {
+    "name": "align-start-vertical",
+    "class": "align-start-vertical"
+  },
+  {
+    "name": "align-top",
+    "class": "align-top"
+  },
+  {
+    "name": "align-vertical-distribute-center",
+    "class": "align-vertical-distribute-center"
+  },
+  {
+    "name": "align-vertical-distribute-end",
+    "class": "align-vertical-distribute-end"
+  },
+  {
+    "name": "align-vertical-distribute-start",
+    "class": "align-vertical-distribute-start"
+  },
+  {
+    "name": "...source",
+    "class": "...source"
+  },
+  {
+    "name": "arrow-left",
+    "class": "arrow-left"
+  },
+  {
+    "name": "arrow-right",
+    "class": "arrow-right"
+  },
+  {
+    "name": "arrow-up",
+    "class": "arrow-up"
+  },
+  {
+    "name": "arrows-diagonal-2",
+    "class": "arrows-diagonal-2"
+  },
+  {
+    "name": "arrows-diagonal",
+    "class": "arrows-diagonal"
+  },
+  {
+    "name": "arrows-horizontal",
+    "class": "arrows-horizontal"
+  },
+  {
+    "name": "arrows-vertical",
+    "class": "arrows-vertical"
+  },
+  {
+    "name": "between-horizontal-end",
+    "class": "between-horizontal-end"
+  },
+  {
+    "name": "between-horizontal-start",
+    "class": "between-horizontal-start"
+  },
+  {
+    "name": "between-vertical-end",
+    "class": "between-vertical-end"
+  },
+  {
+    "name": "between-vertical-start",
+    "class": "between-vertical-start"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "distribute-horizontal-center",
+    "class": "distribute-horizontal-center"
+  },
+  {
+    "name": "distribute-horizontal-end",
+    "class": "distribute-horizontal-end"
+  },
+  {
+    "name": "distribute-horizontal-start",
+    "class": "distribute-horizontal-start"
+  },
+  {
+    "name": "distribute-vertical-center",
+    "class": "distribute-vertical-center"
+  },
+  {
+    "name": "distribute-vertical-end",
+    "class": "distribute-vertical-end"
+  },
+  {
+    "name": "distribute-vertical-start",
+    "class": "distribute-vertical-start"
+  },
+  {
+    "name": "divide-horizontal",
+    "class": "divide-horizontal"
+  },
+  {
+    "name": "divide-vertical",
+    "class": "divide-vertical"
+  },
+  {
+    "name": "divide",
+    "class": "divide"
+  },
+  {
+    "name": "dot",
+    "class": "dot"
+  },
+  {
+    "name": "dots-horizontal",
+    "class": "dots-horizontal"
+  },
+  {
+    "name": "dots-vertical",
+    "class": "dots-vertical"
+  },
+  {
+    "name": "Mail",
+    "class": "Mail"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "inbox",
+    "class": "inbox"
+  },
+  {
+    "name": "mail-check",
+    "class": "mail-check"
+  },
+  {
+    "name": "mail-minus",
+    "class": "mail-minus"
+  },
+  {
+    "name": "mail-open",
+    "class": "mail-open"
+  },
+  {
+    "name": "mail-plus",
+    "class": "mail-plus"
+  },
+  {
+    "name": "mail-question",
+    "class": "mail-question"
+  },
+  {
+    "name": "mail-search",
+    "class": "mail-search"
+  },
+  {
+    "name": "mail-warning",
+    "class": "mail-warning"
+  },
+  {
+    "name": "mail-x",
+    "class": "mail-x"
+  },
+  {
+    "name": "mail",
+    "class": "mail"
+  },
+  {
+    "name": "mails",
+    "class": "mails"
+  },
+  {
+    "name": "paper-airplane",
+    "class": "paper-airplane"
+  },
+  {
+    "name": "paperclip",
+    "class": "paperclip"
+  },
+  {
+    "name": "reply-all",
+    "class": "reply-all"
+  },
+  {
+    "name": "reply",
+    "class": "reply"
+  },
+  {
+    "name": "send",
+    "class": "send"
+  },
+  {
+    "name": "Mathematics",
+    "class": "Mathematics"
+  },
+  {
+    "name": "calculator",
+    "class": "calculator"
+  },
+  {
+    "name": "divide-circle",
+    "class": "divide-circle"
+  },
+  {
+    "name": "divide-square",
+    "class": "divide-square"
+  },
+  {
+    "name": "divide",
+    "class": "divide"
+  },
+  {
+    "name": "equals",
+    "class": "equals"
+  },
+  {
+    "name": "fraction-1-2",
+    "class": "fraction-1-2"
+  },
+  {
+    "name": "fraction-1-3",
+    "class": "fraction-1-3"
+  },
+  {
+    "name": "fraction-1-4",
+    "class": "fraction-1-4"
+  },
+  {
+    "name": "fraction-2-3",
+    "class": "fraction-2-3"
+  },
+  {
+    "name": "fraction-2-4",
+    "class": "fraction-2-4"
+  },
+  {
+    "name": "fraction-3-4",
+    "class": "fraction-3-4"
+  },
+  {
+    "name": "greater-than-equal",
+    "class": "greater-than-equal"
+  },
+  {
+    "name": "greater-than",
+    "class": "greater-than"
+  },
+  {
+    "name": "infinity",
+    "class": "infinity"
+  },
+  {
+    "name": "less-than-equal",
+    "class": "less-than-equal"
+  },
+  {
+    "name": "less-than",
+    "class": "less-than"
+  },
+  {
+    "name": "minus-circle",
+    "class": "minus-circle"
+  },
+  {
+    "name": "minus-square",
+    "class": "minus-square"
+  },
+  {
+    "name": "minus",
+    "class": "minus"
+  },
+  {
+    "name": "not-equal",
+    "class": "not-equal"
+  },
+  {
+    "name": "percent",
+    "class": "percent"
+  },
+  {
+    "name": "plus-circle",
+    "class": "plus-circle"
+  },
+  {
+    "name": "plus-square",
+    "class": "plus-square"
+  },
+  {
+    "name": "plus",
+    "class": "plus"
+  },
+  {
+    "name": "Medical",
+    "class": "Medical"
+  },
+  {
+    "name": "activity",
+    "class": "activity"
+  },
+  {
+    "name": "adrenaline",
+    "class": "adrenaline"
+  },
+  {
+    "name": "air-vent",
+    "class": "air-vent"
+  },
+  {
+    "name": "ambulance",
+    "class": "ambulance"
+  },
+  {
+    "name": "bacteria",
+    "class": "bacteria"
+  },
+  {
+    "name": "bandage",
+    "class": "bandage"
+  },
+  {
+    "name": "bed",
+    "class": "bed"
+  },
+  {
+    "name": "biohazard",
+    "class": "biohazard"
+  },
+  {
+    "name": "bone",
+    "class": "bone"
+  },
+  {
+    "name": "brain",
+    "class": "brain"
+  },
+  {
+    "name": "capsules",
+    "class": "capsules"
+  },
+  {
+    "name": "clipboard-check",
+    "class": "clipboard-check"
+  },
+  {
+    "name": "clipboard-heart",
+    "class": "clipboard-heart"
+  },
+  {
+    "name": "clipboard-x",
+    "class": "clipboard-x"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "dna",
+    "class": "dna"
+  },
+  {
+    "name": "face-mask",
+    "class": "face-mask"
+  },
+  {
+    "name": "first-aid-kit",
+    "class": "first-aid-kit"
+  },
+  {
+    "name": "heart-pulse",
+    "class": "heart-pulse"
+  },
+  {
+    "name": "heart-rate-monitor",
+    "class": "heart-rate-monitor"
+  },
+  {
+    "name": "heart",
+    "class": "heart"
+  },
+  {
+    "name": "hospital",
+    "class": "hospital"
+  },
+  {
+    "name": "injection",
+    "class": "injection"
+  },
+  {
+    "name": "lungs",
+    "class": "lungs"
+  },
+  {
+    "name": "medicine-syrup",
+    "class": "medicine-syrup"
+  },
+  {
+    "name": "pills",
+    "class": "pills"
+  },
+  {
+    "name": "plaster",
+    "class": "plaster"
+  },
+  {
+    "name": "stethoscope",
+    "class": "stethoscope"
+  },
+  {
+    "name": "thermometer",
+    "class": "thermometer"
+  },
+  {
+    "name": "virus",
+    "class": "virus"
+  },
+  {
+    "name": "x-circle",
+    "class": "x-circle"
+  },
+  {
+    "name": "x-octagon",
+    "class": "x-octagon"
+  },
+  {
+    "name": "x-square",
+    "class": "x-square"
+  },
+  {
+    "name": "x",
+    "class": "x"
+  },
+  {
+    "name": "Multimedia",
+    "class": "Multimedia"
+  },
+  {
+    "name": "airplay",
+    "class": "airplay"
+  },
+  {
+    "name": "album",
+    "class": "album"
+  },
+  {
+    "name": "aperture",
+    "class": "aperture"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "clapperboard",
+    "class": "clapperboard"
+  },
+  {
+    "name": "disc",
+    "class": "disc"
+  },
+  {
+    "name": "eject",
+    "class": "eject"
+  },
+  {
+    "name": "equalizer",
+    "class": "equalizer"
+  },
+  {
+    "name": "fast-forward",
+    "class": "fast-forward"
+  },
+  {
+    "name": "film",
+    "class": "film"
+  },
+  {
+    "name": "headphones",
+    "class": "headphones"
+  },
+  {
+    "name": "image",
+    "class": "image"
+  },
+  {
+    "name": "list-music",
+    "class": "list-music"
+  },
+  {
+    "name": "loader-2",
+    "class": "loader-2"
+  },
+  {
+    "name": "loader",
+    "class": "loader"
+  },
+  {
+    "name": "microphone-off",
+    "class": "microphone-off"
+  },
+  {
+    "name": "microphone",
+    "class": "microphone"
+  },
+  {
+    "name": "music",
+    "class": "music"
+  },
+  {
+    "name": "pause-circle",
+    "class": "pause-circle"
+  },
+  {
+    "name": "pause-octagon",
+    "class": "pause-octagon"
+  },
+  {
+    "name": "pause",
+    "class": "pause"
+  },
+  {
+    "name": "photo-off",
+    "class": "photo-off"
+  },
+  {
+    "name": "photos",
+    "class": "photos"
+  },
+  {
+    "name": "play-circle",
+    "class": "play-circle"
+  },
+  {
+    "name": "play",
+    "class": "play"
+  },
+  {
+    "name": "radio",
+    "class": "radio"
+  },
+  {
+    "name": "record-mail",
+    "class": "record-mail"
+  },
+  {
+    "name": "repeat-1",
+    "class": "repeat-1"
+  },
+  {
+    "name": "repeat",
+    "class": "repeat"
+  },
+  {
+    "name": "rewind",
+    "class": "rewind"
+  },
+  {
+    "name": "shuffle",
+    "class": "shuffle"
+  },
+  {
+    "name": "skip-back",
+    "class": "skip-back"
+  },
+  {
+    "name": "skip-forward",
+    "class": "skip-forward"
+  },
+  {
+    "name": "slideshow",
+    "class": "slideshow"
+  },
+  {
+    "name": "stop-circle",
+    "class": "stop-circle"
+  },
+  {
+    "name": "tv-2",
+    "class": "tv-2"
+  },
+  {
+    "name": "tv",
+    "class": "tv"
+  },
+  {
+    "name": "video-off",
+    "class": "video-off"
+  },
+  {
+    "name": "video",
+    "class": "video"
+  },
+  {
+    "name": "volume-1",
+    "class": "volume-1"
+  },
+  {
+    "name": "volume-2",
+    "class": "volume-2"
+  },
+  {
+    "name": "volume-x",
+    "class": "volume-x"
+  },
+  {
+    "name": "volume",
+    "class": "volume"
+  },
+  {
+    "name": "Nature",
+    "class": "Nature"
+  },
+  {
+    "name": "anchor",
+    "class": "anchor"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "Navigation",
+    "class": "Navigation"
+  },
+  {
+    "name": "arrow-down-circle",
+    "class": "arrow-down-circle"
+  },
+  {
+    "name": "arrow-down-left-circle",
+    "class": "arrow-down-left-circle"
+  },
+  {
+    "name": "arrow-down-right-circle",
+    "class": "arrow-down-right-circle"
+  },
+  {
+    "name": "arrow-down",
+    "class": "arrow-down"
+  },
+  {
+    "name": "arrow-left-circle",
+    "class": "arrow-left-circle"
+  },
+  {
+    "name": "arrow-left",
+    "class": "arrow-left"
+  },
+  {
+    "name": "arrow-right-circle",
+    "class": "arrow-right-circle"
+  },
+  {
+    "name": "arrow-right",
+    "class": "arrow-right"
+  },
+  {
+    "name": "arrow-up-circle",
+    "class": "arrow-up-circle"
+  },
+  {
+    "name": "arrow-up-left-circle",
+    "class": "arrow-up-left-circle"
+  },
+  {
+    "name": "arrow-up-right-circle",
+    "class": "arrow-up-right-circle"
+  },
+  {
+    "name": "arrow-up",
+    "class": "arrow-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "external-link",
+    "class": "external-link"
+  },
+  {
+    "name": "fast-forward",
+    "class": "fast-forward"
+  },
+  {
+    "name": "git-branch",
+    "class": "git-branch"
+  },
+  {
+    "name": "git-commit",
+    "class": "git-commit"
+  },
+  {
+    "name": "git-merge",
+    "class": "git-merge"
+  },
+  {
+    "name": "globe",
+    "class": "globe"
+  },
+  {
+    "name": "gps",
+    "class": "gps"
+  },
+  {
+    "name": "hash",
+    "class": "hash"
+  },
+  {
+    "name": "layers",
+    "class": "layers"
+  },
+  {
+    "name": "life-buoy",
+    "class": "life-buoy"
+  },
+  {
+    "name": "link-2-off",
+    "class": "link-2-off"
+  },
+  {
+    "name": "link-2",
+    "class": "link-2"
+  },
+  {
+    "name": "link",
+    "class": "link"
+  },
+  {
+    "name": "log-in",
+    "class": "log-in"
+  },
+  {
+    "name": "log-out",
+    "class": "log-out"
+  },
+  {
+    "name": "map-pin",
+    "class": "map-pin"
+  },
+  {
+    "name": "map",
+    "class": "map"
+  },
+  {
+    "name": "menu",
+    "class": "menu"
+  },
+  {
+    "name": "more-horizontal",
+    "class": "more-horizontal"
+  },
+  {
+    "name": "more-vertical",
+    "class": "more-vertical"
+  },
+  {
+    "name": "navigation-2",
+    "class": "navigation-2"
+  },
+  {
+    "name": "Notification",
+    "class": "Notification"
+  },
+  {
+    "name": "alert-circle",
+    "class": "alert-circle"
+  },
+  {
+    "name": "alert-octagon",
+    "class": "alert-octagon"
+  },
+  {
+    "name": "alert-triangle",
+    "class": "alert-triangle"
+  },
+  {
+    "name": "alert",
+    "class": "alert"
+  },
+  {
+    "name": "bell-minus",
+    "class": "bell-minus"
+  },
+  {
+    "name": "bell-off",
+    "class": "bell-off"
+  },
+  {
+    "name": "bell-plus",
+    "class": "bell-plus"
+  },
+  {
+    "name": "bell-ring",
+    "class": "bell-ring"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "info",
+    "class": "info"
+  },
+  {
+    "name": "megaphone",
+    "class": "megaphone"
+  },
+  {
+    "name": "notification",
+    "class": "notification"
+  },
+  {
+    "name": "People",
+    "class": "People"
+  },
+  {
+    "name": "user",
+    "class": "user"
+  },
+  {
+    "name": "users",
+    "class": "users"
+  },
+  {
+    "name": "Photography",
+    "class": "Photography"
+  },
+  {
+    "name": "aperture",
+    "class": "aperture"
+  },
+  {
+    "name": "camera-off",
+    "class": "camera-off"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "clapperboard",
+    "class": "clapperboard"
+  },
+  {
+    "name": "droplet",
+    "class": "droplet"
+  },
+  {
+    "name": "eye-off",
+    "class": "eye-off"
+  },
+  {
+    "name": "eye",
+    "class": "eye"
+  },
+  {
+    "name": "film",
+    "class": "film"
+  },
+  {
+    "name": "flash-off",
+    "class": "flash-off"
+  },
+  {
+    "name": "flash",
+    "class": "flash"
+  },
+  {
+    "name": "image",
+    "class": "image"
+  },
+  {
+    "name": "images",
+    "class": "images"
+  },
+  {
+    "name": "instagram",
+    "class": "instagram"
+  },
+  {
+    "name": "loader-2",
+    "class": "loader-2"
+  },
+  {
+    "name": "loader",
+    "class": "loader"
+  },
+  {
+    "name": "moon",
+    "class": "moon"
+  },
+  {
+    "name": "mountains",
+    "class": "mountains"
+  },
+  {
+    "name": "pantone",
+    "class": "pantone"
+  },
+  {
+    "name": "aperture",
+    "class": "aperture"
+  },
+  {
+    "name": "camera-off",
+    "class": "camera-off"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "clapperboard",
+    "class": "clapperboard"
+  },
+  {
+    "name": "droplet",
+    "class": "droplet"
+  },
+  {
+    "name": "eye-off",
+    "class": "eye-off"
+  },
+  {
+    "name": "eye",
+    "class": "eye"
+  },
+  {
+    "name": "film",
+    "class": "film"
+  },
+  {
+    "name": "flash-off",
+    "class": "flash-off"
+  },
+  {
+    "name": "flash",
+    "class": "flash"
+  },
+  {
+    "name": "image",
+    "class": "image"
+  },
+  {
+    "name": "images",
+    "class": "images"
+  },
+  {
+    "name": "instagram",
+    "class": "instagram"
+  },
+  {
+    "name": "loader-2",
+    "class": "loader-2"
+  },
+  {
+    "name": "loader",
+    "class": "loader"
+  },
+  {
+    "name": "moon",
+    "class": "moon"
+  },
+  {
+    "name": "mountains",
+    "class": "mountains"
+  },
+  {
+    "name": "pantone",
+    "class": "pantone"
+  },
+  {
+    "name": "Science",
+    "class": "Science"
+  },
+  {
+    "name": "atom",
+    "class": "atom"
+  },
+  {
+    "name": "bacteria",
+    "class": "bacteria"
+  },
+  {
+    "name": "beaker",
+    "class": "beaker"
+  },
+  {
+    "name": "bone",
+    "class": "bone"
+  },
+  {
+    "name": "brain",
+    "class": "brain"
+  },
+  {
+    "name": "dna",
+    "class": "dna"
+  },
+  {
+    "name": "flask-conical",
+    "class": "flask-conical"
+  },
+  {
+    "name": "flask-round",
+    "class": "flask-round"
+  },
+  {
+    "name": "magnet",
+    "class": "magnet"
+  },
+  {
+    "name": "microscope",
+    "class": "microscope"
+  },
+  {
+    "name": "planet",
+    "class": "planet"
+  },
+  {
+    "name": "radiation",
+    "class": "radiation"
+  },
+  {
+    "name": "telescope",
+    "class": "telescope"
+  },
+  {
+    "name": "thermometer",
+    "class": "thermometer"
+  },
+  {
+    "name": "Seasons",
+    "class": "Seasons"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud-sun",
+    "class": "cloud-sun"
+  },
+  {
+    "name": "sun",
+    "class": "sun"
+  },
+  {
+    "name": "Security",
+    "class": "Security"
+  },
+  {
+    "name": "alert-octagon",
+    "class": "alert-octagon"
+  },
+  {
+    "name": "alert-triangle",
+    "class": "alert-triangle"
+  },
+  {
+    "name": "alert",
+    "class": "alert"
+  },
+  {
+    "name": "archive",
+    "class": "archive"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "Shapes",
+    "class": "Shapes"
+  },
+  {
+    "name": "aperture",
+    "class": "aperture"
+  },
+  {
+    "name": "archive",
+    "class": "archive"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "Shopping",
+    "class": "Shopping"
+  },
+  {
+    "name": "bag",
+    "class": "bag"
+  },
+  {
+    "name": "basket",
+    "class": "basket"
+  },
+  {
+    "name": "coin",
+    "class": "coin"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "currency-bitcoin",
+    "class": "currency-bitcoin"
+  },
+  {
+    "name": "currency-dollar",
+    "class": "currency-dollar"
+  },
+  {
+    "name": "currency-euro",
+    "class": "currency-euro"
+  },
+  {
+    "name": "currency-pound",
+    "class": "currency-pound"
+  },
+  {
+    "name": "currency-rupee",
+    "class": "currency-rupee"
+  },
+  {
+    "name": "currency-yen",
+    "class": "currency-yen"
+  },
+  {
+    "name": "gift",
+    "class": "gift"
+  },
+  {
+    "name": "money-bag",
+    "class": "money-bag"
+  },
+  {
+    "name": "percentage",
+    "class": "percentage"
+  },
+  {
+    "name": "piggy-bank",
+    "class": "piggy-bank"
+  },
+  {
+    "name": "receipt",
+    "class": "receipt"
+  },
+  {
+    "name": "safe",
+    "class": "safe"
+  },
+  {
+    "name": "scale",
+    "class": "scale"
+  },
+  {
+    "name": "shopping-bag",
+    "class": "shopping-bag"
+  },
+  {
+    "name": "shopping-cart",
+    "class": "shopping-cart"
+  },
+  {
+    "name": "tag",
+    "class": "tag"
+  },
+  {
+    "name": "truck",
+    "class": "truck"
+  },
+  {
+    "name": "wallet",
+    "class": "wallet"
+  },
+  {
+    "name": "Social",
+    "class": "Social"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "Sports",
+    "class": "Sports"
+  },
+  {
+    "name": "activity",
+    "class": "activity"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "ball-baseball",
+    "class": "ball-baseball"
+  },
+  {
+    "name": "ball-basketball",
+    "class": "ball-basketball"
+  },
+  {
+    "name": "ball-bowling",
+    "class": "ball-bowling"
+  },
+  {
+    "name": "ball-football-american",
+    "class": "ball-football-american"
+  },
+  {
+    "name": "ball-football",
+    "class": "ball-football"
+  },
+  {
+    "name": "ball-tennis",
+    "class": "ball-tennis"
+  },
+  {
+    "name": "balls-pool",
+    "class": "balls-pool"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "Sustainability",
+    "class": "Sustainability"
+  },
+  {
+    "name": "bolt",
+    "class": "bolt"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud-sun",
+    "class": "cloud-sun"
+  },
+  {
+    "name": "droplet",
+    "class": "droplet"
+  },
+  {
+    "name": "fire",
+    "class": "fire"
+  },
+  {
+    "name": "flame",
+    "class": "flame"
+  },
+  {
+    "name": "flower",
+    "class": "flower"
+  },
+  {
+    "name": "leaf",
+    "class": "leaf"
+  },
+  {
+    "name": "lightbulb",
+    "class": "lightbulb"
+  },
+  {
+    "name": "moon",
+    "class": "moon"
+  },
+  {
+    "name": "plant",
+    "class": "plant"
+  },
+  {
+    "name": "recycle",
+    "class": "recycle"
+  },
+  {
+    "name": "seedling",
+    "class": "seedling"
+  },
+  {
+    "name": "solar-panel",
+    "class": "solar-panel"
+  },
+  {
+    "name": "sun",
+    "class": "sun"
+  },
+  {
+    "name": "water",
+    "class": "water"
+  },
+  {
+    "name": "wind",
+    "class": "wind"
+  },
+  {
+    "name": "Text formatting",
+    "class": "Text formatting"
+  },
+  {
+    "name": "align-center",
+    "class": "align-center"
+  },
+  {
+    "name": "align-justify",
+    "class": "align-justify"
+  },
+  {
+    "name": "align-left",
+    "class": "align-left"
+  },
+  {
+    "name": "align-right",
+    "class": "align-right"
+  },
+  {
+    "name": "bold",
+    "class": "bold"
+  },
+  {
+    "name": "clipboard-check",
+    "class": "clipboard-check"
+  },
+  {
+    "name": "clipboard-list",
+    "class": "clipboard-list"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "edit-2",
+    "class": "edit-2"
+  },
+  {
+    "name": "edit-3",
+    "class": "edit-3"
+  },
+  {
+    "name": "edit",
+    "class": "edit"
+  },
+  {
+    "name": "font-italic",
+    "class": "font-italic"
+  },
+  {
+    "name": "font-monospace",
+    "class": "font-monospace"
+  },
+  {
+    "name": "font-size-2",
+    "class": "font-size-2"
+  },
+  {
+    "name": "font-size",
+    "class": "font-size"
+  },
+  {
+    "name": "format-cleaner",
+    "class": "format-cleaner"
+  },
+  {
+    "name": "heading-1",
+    "class": "heading-1"
+  },
+  {
+    "name": "heading-2",
+    "class": "heading-2"
+  },
+  {
+    "name": "heading-3",
+    "class": "heading-3"
+  },
+  {
+    "name": "heading-4",
+    "class": "heading-4"
+  },
+  {
+    "name": "heading-5",
+    "class": "heading-5"
+  },
+  {
+    "name": "heading-6",
+    "class": "heading-6"
+  },
+  {
+    "name": "heading",
+    "class": "heading"
+  },
+  {
+    "name": "highlight",
+    "class": "highlight"
+  },
+  {
+    "name": "indent-decrease",
+    "class": "indent-decrease"
+  },
+  {
+    "name": "indent-increase",
+    "class": "indent-increase"
+  },
+  {
+    "name": "italic",
+    "class": "italic"
+  },
+  {
+    "name": "list-checks",
+    "class": "list-checks"
+  },
+  {
+    "name": "list-minus",
+    "class": "list-minus"
+  },
+  {
+    "name": "list-ordered",
+    "class": "list-ordered"
+  },
+  {
+    "name": "list-plus",
+    "class": "list-plus"
+  },
+  {
+    "name": "list-x",
+    "class": "list-x"
+  },
+  {
+    "name": "list",
+    "class": "list"
+  },
+  {
+    "name": "markdown",
+    "class": "markdown"
+  },
+  {
+    "name": "more-horizontal",
+    "class": "more-horizontal"
+  },
+  {
+    "name": "more-vertical",
+    "class": "more-vertical"
+  },
+  {
+    "name": "paperclip",
+    "class": "paperclip"
+  },
+  {
+    "name": "pencil-line",
+    "class": "pencil-line"
+  },
+  {
+    "name": "pencil",
+    "class": "pencil"
+  },
+  {
+    "name": "quote",
+    "class": "quote"
+  },
+  {
+    "name": "strikethrough",
+    "class": "strikethrough"
+  },
+  {
+    "name": "subscript",
+    "class": "subscript"
+  },
+  {
+    "name": "superscript",
+    "class": "superscript"
+  },
+  {
+    "name": "table",
+    "class": "table"
+  },
+  {
+    "name": "text-cursor-input",
+    "class": "text-cursor-input"
+  },
+  {
+    "name": "text-cursor",
+    "class": "text-cursor"
+  },
+  {
+    "name": "type",
+    "class": "type"
+  },
+  {
+    "name": "underline",
+    "class": "underline"
+  },
+  {
+    "name": "zap-off",
+    "class": "zap-off"
+  },
+  {
+    "name": "zap",
+    "class": "zap"
+  },
+  {
+    "name": "Time & calendar",
+    "class": "Time & calendar"
+  },
+  {
+    "name": "alarm-clock",
+    "class": "alarm-clock"
+  },
+  {
+    "name": "calendar-1",
+    "class": "calendar-1"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "clock-1",
+    "class": "clock-1"
+  },
+  {
+    "name": "clock-10",
+    "class": "clock-10"
+  },
+  {
+    "name": "clock-11",
+    "class": "clock-11"
+  },
+  {
+    "name": "clock-12",
+    "class": "clock-12"
+  },
+  {
+    "name": "clock-2",
+    "class": "clock-2"
+  },
+  {
+    "name": "clock-3",
+    "class": "clock-3"
+  },
+  {
+    "name": "clock-4",
+    "class": "clock-4"
+  },
+  {
+    "name": "clock-5",
+    "class": "clock-5"
+  },
+  {
+    "name": "clock-6",
+    "class": "clock-6"
+  },
+  {
+    "name": "clock-7",
+    "class": "clock-7"
+  },
+  {
+    "name": "clock-8",
+    "class": "clock-8"
+  },
+  {
+    "name": "clock-9",
+    "class": "clock-9"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "hourglass",
+    "class": "hourglass"
+  },
+  {
+    "name": "moon",
+    "class": "moon"
+  },
+  {
+    "name": "stop-circle",
+    "class": "stop-circle"
+  },
+  {
+    "name": "stopwatch",
+    "class": "stopwatch"
+  },
+  {
+    "name": "sunrise",
+    "class": "sunrise"
+  },
+  {
+    "name": "sunset",
+    "class": "sunset"
+  },
+  {
+    "name": "timer-off",
+    "class": "timer-off"
+  },
+  {
+    "name": "timer",
+    "class": "timer"
+  },
+  {
+    "name": "watch",
+    "class": "watch"
+  },
+  {
+    "name": "Tools",
+    "class": "Tools"
+  },
+  {
+    "name": "activity",
+    "class": "activity"
+  },
+  {
+    "name": "airplay",
+    "class": "airplay"
+  },
+  {
+    "name": "alarm-clock",
+    "class": "alarm-clock"
+  },
+  {
+    "name": "ambulance",
+    "class": "ambulance"
+  },
+  {
+    "name": "anchor",
+    "class": "anchor"
+  },
+  {
+    "name": "aperture",
+    "class": "aperture"
+  },
+  {
+    "name": "archive",
+    "class": "archive"
+  },
+  {
+    "name": "arrow-down-circle",
+    "class": "arrow-down-circle"
+  },
+  {
+    "name": "arrow-down-left",
+    "class": "arrow-down-left"
+  },
+  {
+    "name": "arrow-down-right",
+    "class": "arrow-down-right"
+  },
+  {
+    "name": "arrow-down",
+    "class": "arrow-down"
+  },
+  {
+    "name": "arrow-left-circle",
+    "class": "arrow-left-circle"
+  },
+  {
+    "name": "arrow-left",
+    "class": "arrow-left"
+  },
+  {
+    "name": "arrow-right-circle",
+    "class": "arrow-right-circle"
+  },
+  {
+    "name": "arrow-right",
+    "class": "arrow-right"
+  },
+  {
+    "name": "arrow-up-circle",
+    "class": "arrow-up-circle"
+  },
+  {
+    "name": "arrow-up-left",
+    "class": "arrow-up-left"
+  },
+  {
+    "name": "arrow-up-right",
+    "class": "arrow-up-right"
+  },
+  {
+    "name": "arrow-up",
+    "class": "arrow-up"
+  },
+  {
+    "name": "at-sign",
+    "class": "at-sign"
+  },
+  {
+    "name": "award",
+    "class": "award"
+  },
+  {
+    "name": "axe",
+    "class": "axe"
+  },
+  {
+    "name": "ban",
+    "class": "ban"
+  },
+  {
+    "name": "bar-chart-2",
+    "class": "bar-chart-2"
+  },
+  {
+    "name": "bar-chart",
+    "class": "bar-chart"
+  },
+  {
+    "name": "barbell",
+    "class": "barbell"
+  },
+  {
+    "name": "battery-charging",
+    "class": "battery-charging"
+  },
+  {
+    "name": "battery-full",
+    "class": "battery-full"
+  },
+  {
+    "name": "battery-low",
+    "class": "battery-low"
+  },
+  {
+    "name": "battery-medium",
+    "class": "battery-medium"
+  },
+  {
+    "name": "bed",
+    "class": "bed"
+  },
+  {
+    "name": "bell-minus",
+    "class": "bell-minus"
+  },
+  {
+    "name": "bell-off",
+    "class": "bell-off"
+  },
+  {
+    "name": "bell-plus",
+    "class": "bell-plus"
+  },
+  {
+    "name": "bell",
+    "class": "bell"
+  },
+  {
+    "name": "bluetooth",
+    "class": "bluetooth"
+  },
+  {
+    "name": "bold",
+    "class": "bold"
+  },
+  {
+    "name": "book-open",
+    "class": "book-open"
+  },
+  {
+    "name": "book",
+    "class": "book"
+  },
+  {
+    "name": "bookmark",
+    "class": "bookmark"
+  },
+  {
+    "name": "box",
+    "class": "box"
+  },
+  {
+    "name": "briefcase",
+    "class": "briefcase"
+  },
+  {
+    "name": "brush",
+    "class": "brush"
+  },
+  {
+    "name": "calendar-1",
+    "class": "calendar-1"
+  },
+  {
+    "name": "calendar",
+    "class": "calendar"
+  },
+  {
+    "name": "camera-off",
+    "class": "camera-off"
+  },
+  {
+    "name": "camera",
+    "class": "camera"
+  },
+  {
+    "name": "cast",
+    "class": "cast"
+  },
+  {
+    "name": "check-circle",
+    "class": "check-circle"
+  },
+  {
+    "name": "check-square",
+    "class": "check-square"
+  },
+  {
+    "name": "check",
+    "class": "check"
+  },
+  {
+    "name": "chevron-down",
+    "class": "chevron-down"
+  },
+  {
+    "name": "chevron-left",
+    "class": "chevron-left"
+  },
+  {
+    "name": "chevron-right",
+    "class": "chevron-right"
+  },
+  {
+    "name": "chevron-up",
+    "class": "chevron-up"
+  },
+  {
+    "name": "chevrons-down",
+    "class": "chevrons-down"
+  },
+  {
+    "name": "chevrons-left",
+    "class": "chevrons-left"
+  },
+  {
+    "name": "chevrons-right",
+    "class": "chevrons-right"
+  },
+  {
+    "name": "chevrons-up",
+    "class": "chevrons-up"
+  },
+  {
+    "name": "chrome",
+    "class": "chrome"
+  },
+  {
+    "name": "circle-dollar-sign",
+    "class": "circle-dollar-sign"
+  },
+  {
+    "name": "circle-ellipsis",
+    "class": "circle-ellipsis"
+  },
+  {
+    "name": "circle-slash",
+    "class": "circle-slash"
+  },
+  {
+    "name": "clipboard-check",
+    "class": "clipboard-check"
+  },
+  {
+    "name": "clipboard-list",
+    "class": "clipboard-list"
+  },
+  {
+    "name": "clipboard-x",
+    "class": "clipboard-x"
+  },
+  {
+    "name": "clipboard",
+    "class": "clipboard"
+  },
+  {
+    "name": "clock-1",
+    "class": "clock-1"
+  },
+  {
+    "name": "clock-10",
+    "class": "clock-10"
+  },
+  {
+    "name": "clock-11",
+    "class": "clock-11"
+  },
+  {
+    "name": "clock-12",
+    "class": "clock-12"
+  },
+  {
+    "name": "clock-2",
+    "class": "clock-2"
+  },
+  {
+    "name": "clock-3",
+    "class": "clock-3"
+  },
+  {
+    "name": "clock-4",
+    "class": "clock-4"
+  },
+  {
+    "name": "clock-5",
+    "class": "clock-5"
+  },
+  {
+    "name": "clock-6",
+    "class": "clock-6"
+  },
+  {
+    "name": "clock-7",
+    "class": "clock-7"
+  },
+  {
+    "name": "clock-8",
+    "class": "clock-8"
+  },
+  {
+    "name": "clock-9",
+    "class": "clock-9"
+  },
+  {
+    "name": "clock",
+    "class": "clock"
+  },
+  {
+    "name": "cloud-drizzle",
+    "class": "cloud-drizzle"
+  },
+  {
+    "name": "cloud-lightning",
+    "class": "cloud-lightning"
+  },
+  {
+    "name": "cloud-off",
+    "class": "cloud-off"
+  },
+  {
+    "name": "cloud-rain",
+    "class": "cloud-rain"
+  },
+  {
+    "name": "cloud-snow",
+    "class": "cloud-snow"
+  },
+  {
+    "name": "cloud",
+    "class": "cloud"
+  },
+  {
+    "name": "code",
+    "class": "code"
+  },
+  {
+    "name": "codepen",
+    "class": "codepen"
+  },
+  {
+    "name": "codesandbox",
+    "class": "codesandbox"
+  },
+  {
+    "name": "coffee",
+    "class": "coffee"
+  },
+  {
+    "name": "coins",
+    "class": "coins"
+  },
+  {
+    "name": "columns",
+    "class": "columns"
+  },
+  {
+    "name": "command",
+    "class": "command"
+  },
+  {
+    "name": "compass",
+    "class": "compass"
+  },
+  {
+    "name": "copy",
+    "class": "copy"
+  },
+  {
+    "name": "corner-down-left",
+    "class": "corner-down-left"
+  },
+  {
+    "name": "corner-down-right",
+    "class": "corner-down-right"
+  },
+  {
+    "name": "corner-left-down",
+    "class": "corner-left-down"
+  },
+  {
+    "name": "corner-left-up",
+    "class": "corner-left-up"
+  },
+  {
+    "name": "corner-right-down",
+    "class": "corner-right-down"
+  },
+  {
+    "name": "corner-right-up",
+    "class": "corner-right-up"
+  },
+  {
+    "name": "corner-up-left",
+    "class": "corner-up-left"
+  },
+  {
+    "name": "corner-up-right",
+    "class": "corner-up-right"
+  },
+  {
+    "name": "cpu",
+    "class": "cpu"
+  },
+  {
+    "name": "credit-card",
+    "class": "credit-card"
+  },
+  {
+    "name": "crop",
+    "class": "crop"
+  },
+  {
+    "name": "crosshair",
+    "class": "crosshair"
+  },
+  {
+    "name": "crown",
+    "class": "crown"
+  },
+  {
+    "name": "database",
+    "class": "database"
+  },
+  {
+    "name": "delete",
+    "class": "delete"
+  },
+  {
+    "name": "disc",
+    "class": "disc"
+  },
+  {
+    "name": "divide-circle",
+    "class": "divide-circle"
+  },
+  {
+    "name": "divide-square",
+    "class": "divide-square"
+  },
+  {
+    "name": "divide",
+    "class": "divide"
+  },
+  {
+    "name": "dollar-sign",
+    "class": "dollar-sign"
+  },
+  {
+    "name": "download-cloud",
+    "class": "download-cloud"
+  },
+  {
+    "name": "download",
+    "class": "download"
+  },
+  {
+    "name": "droplet",
+    "class": "droplet"
+  },
+  {
+    "name": "edit-2",
+    "class": "edit-2"
+  },
+  {
+    "name": "edit-3",
+    "class": "edit-3"
+  },
+  {
+    "name": "edit",
+    "class": "edit"
+  },
+  {
+    "name": "external-link",
+    "class": "external-link"
+  },
+  {
+    "name": "eye-off",
+    "class": "eye-off"
+  },
+  {
+    "name": "eye",
+    "class": "eye"
+  },
+  {
+    "name": "face-id",
+    "class": "face-id"
+  },
+  {
+    "name": "fast-forward",
+    "class": "fast-forward"
+  },
+  {
+    "name": "feather",
+    "class": "feather"
+  },
+  {
+    "name": "figma",
+    "class": "figma"
+  },
+  {
+    "name": "file-archive",
+    "class": "file-archive"
+  },
+  {
+    "name": "file-audio",
+    "class": "file-audio"
+  },
+  {
+    "name": "file-axis-3d",
+    "class": "file-axis-3d"
+  },
+  {
+    "name": "file-badge-2",
+    "class": "file-badge-2"
+  },
+  {
+    "name": "file-badge",
+    "class": "file-badge"
+  },
+  {
+    "name": "file-bar-chart-2",
+    "class": "file-bar-chart-2"
+  },
+  {
+    "name": "file-bar-chart",
+    "class": "file-bar-chart"
+  },
+  {
+    "name": "file-blank",
+    "class": "file-blank"
+  },
+  {
+    "name": "file-box",
+    "class": "file-box"
+  },
+  {
+    "name": "file-check-2",
+    "class": "file-check-2"
+  },
+  {
+    "name": "file-check",
+    "class": "file-check"
+  },
+  {
+    "name": "file-clock",
+    "class": "file-clock"
+  },
+  {
+    "name": "file-cloud",
+    "class": "file-cloud"
+  },
+  {
+    "name": "file-code",
+    "class": "file-code"
+  },
+  {
+    "name": "file-cog-2",
+    "class": "file-cog-2"
+  },
+  {
+    "name": "file-cog",
+    "class": "file-cog"
+  },
+  {
+    "name": "file-css",
+    "class": "file-css"
+  },
+  {
+    "name": "file-database",
+    "class": "file-database"
+  },
+  {
+    "name": "file-digit",
+    "class": "file-digit"
+  },
+  {
+    "name": "file-doc",
+    "class": "file-doc"
+  },
+  {
+    "name": "file-download",
+    "class": "file-download"
+  },
+  {
+    "name": "file-edit",
+    "class": "file-edit"
+  },
+  {
+    "name": "file-eps",
+    "class": "file-eps"
+  },
+  {
+    "name": "file-excel",
+    "class": "file-excel"
+  },
+  {
+    "name": "file-heart",
+    "class": "file-heart"
+  },
+  {
+    "name": "file-html",
+    "class": "file-html"
+  },
+  {
+    "name": "file-image",
+    "class": "file-image"
+  },
+  {
+    "name": "file-input",
+    "class": "file-input"
+  },
+  {
+    "name": "file-json",
+    "class": "file-json"
+  },
+  {
+    "name": "file-jsx",
+    "class": "file-jsx"
+  },
+  {
+    "name": "file-key",
+    "class": "file-key"
+  },
+  {
+    "name": "file-lock-2",
+    "class": "file-lock-2"
+  },
+  {
+    "name": "file-lock",
+    "class": "file-lock"
+  },
+  {
+    "name": "file-magnifying-glass",
+    "class": "file-magnifying-glass"
+  },
+  {
+    "name": "file-minus-2",
+    "class": "file-minus-2"
+  },
+  {
+    "name": "file-minus",
+    "class": "file-minus"
+  },
+  {
+    "name": "file-output",
+    "class": "file-output"
+  },
+  {
+    "name": "file-pdf",
+    "class": "file-pdf"
+  },
+  {
+    "name": "file-percent",
+    "class": "file-percent"
+  },
+  {
+    "name": "file-plus-2",
+    "class": "file-plus-2"
+  },
+  {
+    "name": "file-plus",
+    "class": "file-plus"
+  },
+  {
+    "name": "file-powerpoint",
+    "class": "file-powerpoint"
+  },
+  {
+    "name": "file",
+    "class": "file"
+  }
+]
