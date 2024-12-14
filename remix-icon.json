@@ -1,626 +1,722 @@
 [
   {
-    "name": "ri-account-circle-line",
-    "class": "ri-account-circle-line"
+    "name": "account-circle-line",
+    "class": "account-circle-line"
   },
   {
-    "name": "ri-add-fill",
-    "class": "ri-add-fill"
+    "name": "account-circle-fill",
+    "class": "account-circle-fill"
   },
   {
-    "name": "ri-album-line",
-    "class": "ri-album-line"
+    "name": "add-fill",
+    "class": "add-fill"
   },
   {
-    "name": "ri-arrow-down-s-line",
-    "class": "ri-arrow-down-s-line"
+    "name": "album-line",
+    "class": "album-line"
   },
   {
-    "name": "ri-arrow-drop-down-line",
-    "class": "ri-arrow-drop-down-line"
+    "name": "arrow-down-circle",
+    "class": "arrow-down-circle"
   },
   {
-    "name": "ri-arrow-drop-right-line",
-    "class": "ri-arrow-drop-right-line"
+    "name": "arrow-down-s-line",
+    "class": "arrow-down-s-line"
   },
   {
-    "name": "ri-arrow-go-back-line",
-    "class": "ri-arrow-go-back-line"
+    "name": "arrow-drop-down-line",
+    "class": "arrow-drop-down-line"
   },
   {
-    "name": "ri-arrow-left-s-line",
-    "class": "ri-arrow-left-s-line"
+    "name": "arrow-drop-left",
+    "class": "arrow-drop-left"
   },
   {
-    "name": "ri-arrow-right-line",
-    "class": "ri-arrow-right-line"
+    "name": "arrow-drop-right",
+    "class": "arrow-drop-right"
   },
   {
-    "name": "ri-battery-2-charge-fill",
-    "class": "ri-battery-2-charge-fill"
+    "name": "arrow-drop-right-line",
+    "class": "arrow-drop-right-line"
   },
   {
-    "name": "ri-battery-low-line",
-    "class": "ri-battery-low-line"
+    "name": "arrow-drop-up",
+    "class": "arrow-drop-up"
   },
   {
-    "name": "ri-base-station-fill",
-    "class": "ri-base-station-fill"
+    "name": "arrow-go-back-line",
+    "class": "arrow-go-back-line"
   },
   {
-    "name": "ri-basketball-fill",
-    "class": "ri-basketball-fill"
+    "name": "arrow-go-back-fill",
+    "class": "arrow-go-back-fill"
   },
   {
-    "name": "ri-bell-line",
-    "class": "ri-bell-line"
+    "name": "arrow-left-circle",
+    "class": "arrow-left-circle"
   },
   {
-    "name": "ri-bill-line",
-    "class": "ri-bill-line"
+    "name": "arrow-left-down-box",
+    "class": "arrow-left-down-box"
   },
   {
-    "name": "ri-billiards-line",
-    "class": "ri-billiards-line"
+    "name": "arrow-left-right",
+    "class": "arrow-left-right"
   },
   {
-    "name": "ri-books",
-    "class": "ri-books"
+    "name": "arrow-left-s-line",
+    "class": "arrow-left-s-line"
   },
   {
-    "name": "ri-brand-wix",
-    "class": "ri-brand-wix"
+    "name": "arrow-left-up-box",
+    "class": "arrow-left-up-box"
   },
   {
-    "name": "ri-brave",
-    "class": "ri-brave"
+    "name": "arrow-right-box",
+    "class": "arrow-right-box"
   },
   {
-    "name": "ri-brush",
-    "class": "ri-brush"
+    "name": "arrow-right-down-box",
+    "class": "arrow-right-down-box"
   },
   {
-    "name": "ri-cake-3-line",
-    "class": "ri-cake-3-line"
+    "name": "arrow-right-line",
+    "class": "arrow-right-line"
   },
   {
-    "name": "ri-cake-3-fill",
-    "class": "ri-cake-3-fill"
+    "name": "arrow-right-s-line",
+    "class": "arrow-right-s-line"
   },
   {
-    "name": "ri-calender-1",
-    "class": "ri-calender-1"
+    "name": "arrow-right-up-box",
+    "class": "arrow-right-up-box"
   },
   {
-    "name": "ri-calender-2",
-    "class": "ri-calender-2"
+    "name": "arrow-right-wide",
+    "class": "arrow-right-wide"
   },
   {
-    "name": "ri-camera-fill",
-    "class": "ri-camera-fill"
+    "name": "arrow-up-box",
+    "class": "arrow-up-box"
   },
   {
-    "name": "ri-camera-lens-fill",
-    "class": "ri-camera-lens-fill"
+    "name": "arrow-up-down",
+    "class": "arrow-up-down"
   },
   {
-    "name": "ri-camera-lens-line",
-    "class": "ri-camera-lens-line"
+    "name": "arrow-up-down-line",
+    "class": "arrow-up-down-line"
   },
   {
-    "name": "ri-camera-line",
-    "class": "ri-camera-line"
+    "name": "arrow-up-s",
+    "class": "arrow-up-s"
   },
   {
-    "name": "ri-checkbox-blank-circle-line",
-    "class": "ri-checkbox-blank-circle-line"
+    "name": "arrow-up-wide",
+    "class": "arrow-up-wide"
   },
   {
-    "name": "ri-checkbox-circle-fill",
-    "class": "ri-checkbox-circle-fill"
+    "name": "battery--charge-fill",
+    "class": "battery--charge-fill"
   },
   {
-    "name": "ri-checkbox-circle-line",
-    "class": "ri-checkbox-circle-line"
+    "name": "battery-low-line",
+    "class": "battery-low-line"
   },
   {
-    "name": "ri-chess",
-    "class": "ri-chess"
+    "name": "base-station-fill",
+    "class": "base-station-fill"
   },
   {
-    "name": "ri-chrome",
-    "class": "ri-chrome"
+    "name": "basketball-fill",
+    "class": "basketball-fill"
   },
   {
-    "name": "ri-chromium",
-    "class": "ri-chromium"
+    "name": "bell-line",
+    "class": "bell-line"
   },
   {
-    "name": "ri-cigarette",
-    "class": "ri-cigarette"
+    "name": "bill-line",
+    "class": "bill-line"
   },
   {
-    "name": "ri-cinema",
-    "class": "ri-cinema"
+    "name": "billiards",
+    "class": "billiards"
   },
   {
-    "name": "ri-circle-money-dollar-line",
-    "class": "ri-circle-money-dollar-line"
+    "name": "billiards-line",
+    "class": "billiards-line"
   },
   {
-    "name": "ri-close-line",
-    "class": "ri-close-line"
+    "name": "bilibili",
+    "class": "bilibili"
   },
   {
-    "name": "ri-close-circle-fill",
-    "class": "ri-close-circle-fill"
+    "name": "bluetooth",
+    "class": "bluetooth"
   },
   {
-    "name": "ri-cogs",
-    "class": "ri-cogs"
+    "name": "books",
+    "class": "books"
   },
   {
-    "name": "ri-compass-discover-line",
-    "class": "ri-compass-discover-line"
+    "name": "box",
+    "class": "box"
   },
   {
-    "name": "ri-computer-fill",
-    "class": "ri-computer-fill"
+    "name": "brand-wix",
+    "class": "brand-wix"
   },
   {
-    "name": "ri-computer-line",
-    "class": "ri-computer-line"
+    "name": "brave",
+    "class": "brave"
   },
   {
-    "name": "ri-contacts-book-2-fill",
-    "class": "ri-contacts-book-2-fill"
+    "name": "brush",
+    "class": "brush"
   },
   {
-    "name": "ri-contacts-book-2-line",
-    "class": "ri-contacts-book-2-line"
+    "name": "cake-3-fill",
+    "class": "cake-3-fill"
   },
   {
-    "name": "ri-contacts-fill",
-    "class": "ri-contacts-fill"
+    "name": "cake-3-line",
+    "class": "cake-3-line"
   },
   {
-    "name": "ri-contacts-line",
-    "class": "ri-contacts-line"
+    "name": "calender-",
+    "class": "calender-"
   },
   {
-    "name": "ri-copy",
-    "class": "ri-copy"
+    "name": "calender-",
+    "class": "calender-"
   },
   {
-    "name": "ri-copyright-line",
-    "class": "ri-copyright-line"
+    "name": "camera-fill",
+    "class": "camera-fill"
   },
   {
-    "name": "ri-countdown",
-    "class": "ri-countdown"
+    "name": "camera-lens-fill",
+    "class": "camera-lens-fill"
   },
   {
-    "name": "ri-crypto.com",
-    "class": "ri-crypto.com"
+    "name": "camera-lens-line",
+    "class": "camera-lens-line"
   },
   {
-    "name": "ri-cv",
-    "class": "ri-cv"
+    "name": "camera-line",
+    "class": "camera-line"
   },
   {
-    "name": "ri-discord",
-    "class": "ri-discord"
+    "name": "chat",
+    "class": "chat"
   },
   {
-    "name": "ri-discord-fill",
-    "class": "ri-discord-fill"
+    "name": "chat-history-fill-message",
+    "class": "chat-history-fill-message"
   },
   {
-    "name": "ri-double-quotes-l",
-    "class": "ri-double-quotes-l"
+    "name": "chat-quote-fill",
+    "class": "chat-quote-fill"
   },
   {
-    "name": "ri-double-quotes-r",
-    "class": "ri-double-quotes-r"
+    "name": "chat-smile-fill",
+    "class": "chat-smile-fill"
   },
   {
-    "name": "ri-draft-line",
-    "class": "ri-draft-line"
+    "name": "checkbox-blank-circle-line",
+    "class": "checkbox-blank-circle-line"
   },
   {
-    "name": "ri-edge",
-    "class": "ri-edge"
+    "name": "checkbox-circle-fill",
+    "class": "checkbox-circle-fill"
   },
   {
-    "name": "ri-elegant",
-    "class": "ri-elegant"
+    "name": "checkbox-circle-line",
+    "class": "checkbox-circle-line"
   },
   {
-    "name": "ri-elusive",
-    "class": "ri-elusive"
+    "name": "chess",
+    "class": "chess"
   },
   {
-    "name": "ri-emotion-happy-line",
-    "class": "ri-emotion-happy-line"
+    "name": "chrome",
+    "class": "chrome"
   },
   {
-    "name": "ri-emotion-sad-line",
-    "class": "ri-emotion-sad-line"
+    "name": "chromium",
+    "class": "chromium"
   },
   {
-    "name": "ri-english-input",
-    "class": "ri-english-input"
+    "name": "cigarette",
+    "class": "cigarette"
   },
   {
-    "name": "ri-exchange-dollar-line",
-    "class": "ri-exchange-dollar-line"
+    "name": "cinema",
+    "class": "cinema"
   },
   {
-    "name": "ri-external-link-line",
-    "class": "ri-external-link-line"
+    "name": "circle",
+    "class": "circle"
   },
   {
-    "name": "ri-eye-close",
-    "class": "ri-eye-close"
+    "name": "circle-money-dollar-line",
+    "class": "circle-money-dollar-line"
   },
   {
-    "name": "ri-eye-open",
-    "class": "ri-eye-open"
+    "name": "close-circle-fill",
+    "class": "close-circle-fill"
   },
   {
-    "name": "ri-facebook-circle",
-    "class": "ri-facebook-circle"
+    "name": "close-line",
+    "class": "close-line"
   },
   {
-    "name": "ri-facebook-circle-fill",
-    "class": "ri-facebook-circle-fill"
+    "name": "codepen",
+    "class": "codepen"
   },
   {
-    "name": "ri-facebook-circle-line",
-    "class": "ri-facebook-circle-line"
+    "name": "cogs",
+    "class": "cogs"
   },
   {
-    "name": "ri-facebook-fill",
-    "class": "ri-facebook-fill"
+    "name": "compass-discover-line",
+    "class": "compass-discover-line"
   },
   {
-    "name": "ri-faq-circle",
-    "class": "ri-faq-circle"
+    "name": "computer-fill",
+    "class": "computer-fill"
   },
   {
-    "name": "ri-feathercoin",
-    "class": "ri-feathercoin"
+    "name": "computer-line",
+    "class": "computer-line"
   },
   {
-    "name": "ri-file-copy-line",
-    "class": "ri-file-copy-line"
+    "name": "contacts-book--fill",
+    "class": "contacts-book--fill"
   },
   {
-    "name": "ri-file-excel-2-line",
-    "class": "ri-file-excel-2-line"
+    "name": "contacts-book--line",
+    "class": "contacts-book--line"
   },
   {
-    "name": "ri-file-history-line",
-    "class": "ri-file-history-line"
+    "name": "contacts-fill",
+    "class": "contacts-fill"
   },
   {
-    "name": "ri-file-list-3-fill",
-    "class": "ri-file-list-3-fill"
+    "name": "contacts-line",
+    "class": "contacts-line"
   },
   {
-    "name": "ri-file-list-3-line",
-    "class": "ri-file-list-3-line"
+    "name": "copy",
+    "class": "copy"
   },
   {
-    "name": "ri-file-list-line",
-    "class": "ri-file-list-line"
+    "name": "copyright-line",
+    "class": "copyright-line"
   },
   {
-    "name": "ri-file-paper-2-line",
-    "class": "ri-file-paper-2-line"
+    "name": "countdown",
+    "class": "countdown"
   },
   {
-    "name": "ri-filter-highpass",
-    "class": "ri-filter-highpass"
+    "name": "crypto.com",
+    "class": "crypto.com"
   },
   {
-    "name": "ri-filter-lowpass",
-    "class": "ri-filter-lowpass"
+    "name": "cv",
+    "class": "cv"
   },
   {
-    "name": "ri-filter-off-fill",
-    "class": "ri-filter-off-fill"
+    "name": "diamond",
+    "class": "diamond"
   },
   {
-    "name": "ri-finance",
-    "class": "ri-finance"
+    "name": "discord",
+    "class": "discord"
   },
   {
-    "name": "ri-fire",
-    "class": "ri-fire"
+    "name": "discord-fill",
+    "class": "discord-fill"
   },
   {
-    "name": "ri-fire-line",
-    "class": "ri-fire-line"
+    "name": "down",
+    "class": "down"
   },
   {
-    "name": "ri-firefox",
-    "class": "ri-firefox"
+    "name": "double-quotes-l",
+    "class": "double-quotes-l"
   },
   {
-    "name": "ri-firefox-57-70",
-    "class": "ri-firefox-57-70"
+    "name": "double-quotes-r",
+    "class": "double-quotes-r"
   },
   {
-    "name": "ri-firefox-nightly",
-    "class": "ri-firefox-nightly"
+    "name": "draft-line",
+    "class": "draft-line"
   },
   {
-    "name": "ri-flashlight-fill",
-    "class": "ri-flashlight-fill"
+    "name": "edge",
+    "class": "edge"
   },
   {
-    "name": "ri-flood-line",
-    "class": "ri-flood-line"
+    "name": "elegant",
+    "class": "elegant"
   },
   {
-    "name": "ri-font-audio",
-    "class": "ri-font-audio"
+    "name": "elusive",
+    "class": "elusive"
   },
   {
-    "name": "ri-font-size",
-    "class": "ri-font-size"
+    "name": "emotion-happy-line",
+    "class": "emotion-happy-line"
   },
   {
-    "name": "ri-footprint-fill",
-    "class": "ri-footprint-fill"
+    "name": "emotion-sad-line",
+    "class": "emotion-sad-line"
   },
   {
-    "name": "ri-free-fire-max",
-    "class": "ri-free-fire-max"
+    "name": "english-input",
+    "class": "english-input"
   },
   {
-    "name": "ri-fuel",
-    "class": "ri-fuel"
+    "name": "exchange-dollar-line",
+    "class": "exchange-dollar-line"
   },
   {
-    "name": "ri-fullscreen-line",
-    "class": "ri-fullscreen-line"
+    "name": "external-link-line",
+    "class": "external-link-line"
   },
   {
-    "name": "ri-furniture",
-    "class": "ri-furniture"
+    "name": "eye-close",
+    "class": "eye-close"
   },
   {
-    "name": "ri-gear",
-    "class": "ri-gear"
+    "name": "eye-open",
+    "class": "eye-open"
   },
   {
-    "name": "ri-gears",
-    "class": "ri-gears"
+    "name": "facebook-circle",
+    "class": "facebook-circle"
   },
   {
-    "name": "ri-geometry-dash",
-    "class": "ri-geometry-dash"
+    "name": "facebook-circle-fill",
+    "class": "facebook-circle-fill"
   },
   {
-    "name": "ri-gift-card",
-    "class": "ri-gift-card"
+    "name": "facebook-circle-line",
+    "class": "facebook-circle-line"
   },
   {
-    "name": "ri-global",
-    "class": "ri-global"
+    "name": "facebook-fill",
+    "class": "facebook-fill"
   },
   {
-    "name": "ri-global-line",
-    "class": "ri-global-line"
+    "name": "faq-circle",
+    "class": "faq-circle"
   },
   {
-    "name": "ri-global-digital-content",
-    "class": "ri-global-digital-content"
+    "name": "feathercoin",
+    "class": "feathercoin"
   },
   {
-    "name": "ri-google-fill",
-    "class": "ri-google-fill"
+    "name": "file-copy-line",
+    "class": "file-copy-line"
   },
   {
-    "name": "ri-government",
-    "class": "ri-government"
+    "name": "file-excel--line",
+    "class": "file-excel--line"
   },
   {
-    "name": "ri-government-line",
-    "class": "ri-government-line"
+    "name": "file-history-line",
+    "class": "file-history-line"
   },
   {
-    "name": "ri-groww",
-    "class": "ri-groww"
+    "name": "file-list-3-fill",
+    "class": "file-list-3-fill"
   },
   {
-    "name": "ri-hq-line",
-    "class": "ri-hq-line"
+    "name": "file-list-3-line",
+    "class": "file-list-3-line"
   },
   {
-    "name": "ri-hours-fill",
-    "class": "ri-hours-fill"
+    "name": "file-list-line",
+    "class": "file-list-line"
   },
   {
-    "name": "ri-image-add-line",
-    "class": "ri-image-add-line"
+    "name": "file-paper--line",
+    "class": "file-paper--line"
   },
   {
-    "name": "ri-instagram-line",
-    "class": "ri-instagram-line"
+    "name": "filter-highpass",
+    "class": "filter-highpass"
   },
   {
-    "name": "ri-iptv-smarters",
-    "class": "ri-iptv-smarters"
+    "name": "filter-lowpass",
+    "class": "filter-lowpass"
   },
   {
-    "name": "ri-linkedin",
-    "class": "ri-linkedin"
+    "name": "filter-off-fill",
+    "class": "filter-off-fill"
   },
   {
-    "name": "ri-login-circle-line",
-    "class": "ri-login-circle-line"
+    "name": "finance",
+    "class": "finance"
   },
   {
-    "name": "ri-lock-password-line",
-    "class": "ri-lock-password-line"
+    "name": "fire",
+    "class": "fire"
   },
   {
-    "name": "ri-mastercard-line",
-    "class": "ri-mastercard-line"
+    "name": "fire-line",
+    "class": "fire-line"
   },
   {
-    "name": "ri-menu-3-fill",
-    "class": "ri-menu-3-fill"
+    "name": "firefox",
+    "class": "firefox"
   },
   {
-    "name": "ri-meteor-fill",
-    "class": "ri-meteor-fill"
+    "name": "firefox-57-70",
+    "class": "firefox-57-70"
   },
   {
-    "name": "ri-mic-line",
-    "class": "ri-mic-line"
+    "name": "firefox-nightly",
+    "class": "firefox-nightly"
   },
   {
-    "name": "ri-mindustry",
-    "class": "ri-mindustry"
+    "name": "flashlight-fill",
+    "class": "flashlight-fill"
   },
   {
-    "name": "ri-money-dollar-circle-line",
-    "class": "ri-money-dollar-circle-line"
+    "name": "flood-line",
+    "class": "flood-line"
   },
   {
-    "name": "ri-moon-clear-line",
-    "class": "ri-moon-clear-line"
+    "name": "font-audio",
+    "class": "font-audio"
   },
   {
-    "name": "ri-music-2-line",
-    "class": "ri-music-2-line"
+    "name": "font-size",
+    "class": "font-size"
   },
   {
-    "name": "ri-nike",
-    "class": "ri-nike"
+    "name": "footprint-fill",
+    "class": "footprint-fill"
   },
   {
-    "name": "ri-nzb360",
-    "class": "ri-nzb360"
+    "name": "fullscreen-line",
+    "class": "fullscreen-line"
   },
   {
-    "name": "ri-qr-scan-2-line",
-    "class": "ri-qr-scan-2-line"
+    "name": "furniture",
+    "class": "furniture"
   },
   {
-    "name": "ri-question-help",
-    "class": "ri-question-help"
+    "name": "gear",
+    "class": "gear"
   },
   {
-    "name": "ri-question-line",
-    "class": "ri-question-line"
+    "name": "gears",
+    "class": "gears"
   },
   {
-    "name": "ri-rocket-2-line",
-    "class": "ri-rocket-2-line"
+    "name": "gift-card",
+    "class": "gift-card"
   },
   {
-    "name": "ri-rocket-fill",
-    "class": "ri-rocket-fill"
+    "name": "global-digital-content",
+    "class": "global-digital-content"
   },
   {
-    "name": "ri-road-map-line",
-    "class": "ri-road-map-line"
+    "name": "global-line",
+    "class": "global-line"
   },
   {
-    "name": "ri-save-fill-data",
-    "class": "ri-save-fill-data"
+    "name": "google-fill",
+    "class": "google-fill"
   },
   {
-    "name": "ri-search-2-line",
-    "class": "ri-search-2-line"
+    "name": "government",
+    "class": "government"
   },
   {
-    "name": "ri-search-line",
-    "class": "ri-search-line"
+    "name": "government-line",
+    "class": "government-line"
   },
   {
-    "name": "ri-sensor-alarm",
-    "class": "ri-sensor-alarm"
+    "name": "hq-line",
+    "class": "hq-line"
   },
   {
-    "name": "ri-share-forward-line",
-    "class": "ri-share-forward-line"
+    "name": "hours-fill",
+    "class": "hours-fill"
   },
   {
-    "name": "ri-side-bar-fill",
-    "class": "ri-side-bar-fill"
+    "name": "image-add-line",
+    "class": "image-add-line"
   },
   {
-    "name": "ri-skip-down",
-    "class": "ri-skip-down"
+    "name": "instagram-line",
+    "class": "instagram-line"
   },
   {
-    "name": "ri-skip-left",
-    "class": "ri-skip-left"
+    "name": "leaf-fill",
+    "class": "leaf-fill"
   },
   {
-    "name": "ri-skip-right",
-    "class": "ri-skip-right"
+    "name": "left",
+    "class": "left"
   },
   {
-    "name": "ri-skip-up",
-    "class": "ri-skip-up"
+    "name": "linkedin",
+    "class": "linkedin"
   },
   {
-    "name": "ri-sound-module-line",
-    "class": "ri-sound-module-line"
+    "name": "lock-password-line",
+    "class": "lock-password-line"
   },
   {
-    "name": "ri-spam-fill",
-    "class": "ri-spam-fill"
+    "name": "login-circle-line",
+    "class": "login-circle-line"
   },
   {
-    "name": "ri-speaker-3-line",
-    "class": "ri-speaker-3-line"
+    "name": "mastercard-line",
+    "class": "mastercard-line"
   },
   {
-    "name": "ri-stumble-guys",
-    "class": "ri-stumble-guys"
+    "name": "menu-3-fill",
+    "class": "menu-3-fill"
   },
   {
-    "name": "ri-tablet-fill",
-    "class": "ri-tablet-fill"
+    "name": "meteor-fill",
+    "class": "meteor-fill"
   },
   {
-    "name": "ri-temp-hot-line",
-    "class": "ri-temp-hot-line"
+    "name": "mic-line",
+    "class": "mic-line"
   },
   {
-    "name": "ri-toggle-on-off",
-    "class": "ri-toggle-on-off"
+    "name": "money",
+    "class": "money"
   },
   {
-    "name": "ri-tradingview",
-    "class": "ri-tradingview"
+    "name": "money-dollar-circle-line",
+    "class": "money-dollar-circle-line"
   },
   {
-    "name": "ri-unifi-network",
-    "class": "ri-unifi-network"
+    "name": "moon",
+    "class": "moon"
   },
   {
-    "name": "ri-vsco",
-    "class": "ri-vsco"
+    "name": "moon-clear-line",
+    "class": "moon-clear-line"
   },
   {
-    "name": "ri-wallet-money",
-    "class": "ri-wallet-money"
+    "name": "music--line",
+    "class": "music--line"
   },
   {
-    "name": "ri-whatsapp-line",
-    "class": "ri-whatsapp-line"
+    "name": "qr-scan--line",
+    "class": "qr-scan--line"
   },
   {
-    "name": "ri-wireguard",
-    "class": "ri-wireguard"
+    "name": "question-help",
+    "class": "question-help"
+  },
+  {
+    "name": "question-line",
+    "class": "question-line"
+  },
+  {
+    "name": "road-map-line",
+    "class": "road-map-line"
+  },
+  {
+    "name": "rocket--line",
+    "class": "rocket--line"
+  },
+  {
+    "name": "rocket-fill",
+    "class": "rocket-fill"
+  },
+  {
+    "name": "save-fill-data",
+    "class": "save-fill-data"
+  },
+  {
+    "name": "search--line",
+    "class": "search--line"
+  },
+  {
+    "name": "search-line",
+    "class": "search-line"
+  },
+  {
+    "name": "sensor-alarm",
+    "class": "sensor-alarm"
+  },
+  {
+    "name": "share-forward-line",
+    "class": "share-forward-line"
+  },
+  {
+    "name": "side-bar-fill",
+    "class": "side-bar-fill"
+  },
+  {
+    "name": "skip-down",
+    "class": "skip-down"
+  },
+  {
+    "name": "skip-left",
+    "class": "skip-left"
+  },
+  {
+    "name": "skip-right",
+    "class": "skip-right"
+  },
+  {
+    "name": "skip-up",
+    "class": "skip-up"
+  },
+  {
+    "name": "sound-module-line",
+    "class": "sound-module-line"
+  },
+  {
+    "name": "spam-fill",
+    "class": "spam-fill"
+  },
+  {
+    "name": "speaker-3-line",
+    "class": "speaker-3-line"
+  },
+  {
+    "name": "tablet-fill",
+    "class": "tablet-fill"
+  },
+  {
+    "name": "temp-hot-line",
+    "class": "temp-hot-line"
+  },
+  {
+    "name": "toggle-on-off",
+    "class": "toggle-on-off"
+  },
+  {
+    "name": "up",
+    "class": "up"
+  },
+  {
+    "name": "vsco",
+    "class": "vsco"
+  },
+  {
+    "name": "wallet-money",
+    "class": "wallet-money"
+  },
+  {
+    "name": "whatsapp-line",
+    "class": "whatsapp-line"
   }
 ]
