@@ -1,0 +1,626 @@
+[
+  {
+    "name": "ri-account-circle-line",
+    "class": "ri-account-circle-line"
+  },
+  {
+    "name": "ri-add-fill",
+    "class": "ri-add-fill"
+  },
+  {
+    "name": "ri-album-line",
+    "class": "ri-album-line"
+  },
+  {
+    "name": "ri-arrow-down-s-line",
+    "class": "ri-arrow-down-s-line"
+  },
+  {
+    "name": "ri-arrow-drop-down-line",
+    "class": "ri-arrow-drop-down-line"
+  },
+  {
+    "name": "ri-arrow-drop-right-line",
+    "class": "ri-arrow-drop-right-line"
+  },
+  {
+    "name": "ri-arrow-go-back-line",
+    "class": "ri-arrow-go-back-line"
+  },
+  {
+    "name": "ri-arrow-left-s-line",
+    "class": "ri-arrow-left-s-line"
+  },
+  {
+    "name": "ri-arrow-right-line",
+    "class": "ri-arrow-right-line"
+  },
+  {
+    "name": "ri-battery-2-charge-fill",
+    "class": "ri-battery-2-charge-fill"
+  },
+  {
+    "name": "ri-battery-low-line",
+    "class": "ri-battery-low-line"
+  },
+  {
+    "name": "ri-base-station-fill",
+    "class": "ri-base-station-fill"
+  },
+  {
+    "name": "ri-basketball-fill",
+    "class": "ri-basketball-fill"
+  },
+  {
+    "name": "ri-bell-line",
+    "class": "ri-bell-line"
+  },
+  {
+    "name": "ri-bill-line",
+    "class": "ri-bill-line"
+  },
+  {
+    "name": "ri-billiards-line",
+    "class": "ri-billiards-line"
+  },
+  {
+    "name": "ri-books",
+    "class": "ri-books"
+  },
+  {
+    "name": "ri-brand-wix",
+    "class": "ri-brand-wix"
+  },
+  {
+    "name": "ri-brave",
+    "class": "ri-brave"
+  },
+  {
+    "name": "ri-brush",
+    "class": "ri-brush"
+  },
+  {
+    "name": "ri-cake-3-line",
+    "class": "ri-cake-3-line"
+  },
+  {
+    "name": "ri-cake-3-fill",
+    "class": "ri-cake-3-fill"
+  },
+  {
+    "name": "ri-calender-1",
+    "class": "ri-calender-1"
+  },
+  {
+    "name": "ri-calender-2",
+    "class": "ri-calender-2"
+  },
+  {
+    "name": "ri-camera-fill",
+    "class": "ri-camera-fill"
+  },
+  {
+    "name": "ri-camera-lens-fill",
+    "class": "ri-camera-lens-fill"
+  },
+  {
+    "name": "ri-camera-lens-line",
+    "class": "ri-camera-lens-line"
+  },
+  {
+    "name": "ri-camera-line",
+    "class": "ri-camera-line"
+  },
+  {
+    "name": "ri-checkbox-blank-circle-line",
+    "class": "ri-checkbox-blank-circle-line"
+  },
+  {
+    "name": "ri-checkbox-circle-fill",
+    "class": "ri-checkbox-circle-fill"
+  },
+  {
+    "name": "ri-checkbox-circle-line",
+    "class": "ri-checkbox-circle-line"
+  },
+  {
+    "name": "ri-chess",
+    "class": "ri-chess"
+  },
+  {
+    "name": "ri-chrome",
+    "class": "ri-chrome"
+  },
+  {
+    "name": "ri-chromium",
+    "class": "ri-chromium"
+  },
+  {
+    "name": "ri-cigarette",
+    "class": "ri-cigarette"
+  },
+  {
+    "name": "ri-cinema",
+    "class": "ri-cinema"
+  },
+  {
+    "name": "ri-circle-money-dollar-line",
+    "class": "ri-circle-money-dollar-line"
+  },
+  {
+    "name": "ri-close-line",
+    "class": "ri-close-line"
+  },
+  {
+    "name": "ri-close-circle-fill",
+    "class": "ri-close-circle-fill"
+  },
+  {
+    "name": "ri-cogs",
+    "class": "ri-cogs"
+  },
+  {
+    "name": "ri-compass-discover-line",
+    "class": "ri-compass-discover-line"
+  },
+  {
+    "name": "ri-computer-fill",
+    "class": "ri-computer-fill"
+  },
+  {
+    "name": "ri-computer-line",
+    "class": "ri-computer-line"
+  },
+  {
+    "name": "ri-contacts-book-2-fill",
+    "class": "ri-contacts-book-2-fill"
+  },
+  {
+    "name": "ri-contacts-book-2-line",
+    "class": "ri-contacts-book-2-line"
+  },
+  {
+    "name": "ri-contacts-fill",
+    "class": "ri-contacts-fill"
+  },
+  {
+    "name": "ri-contacts-line",
+    "class": "ri-contacts-line"
+  },
+  {
+    "name": "ri-copy",
+    "class": "ri-copy"
+  },
+  {
+    "name": "ri-copyright-line",
+    "class": "ri-copyright-line"
+  },
+  {
+    "name": "ri-countdown",
+    "class": "ri-countdown"
+  },
+  {
+    "name": "ri-crypto.com",
+    "class": "ri-crypto.com"
+  },
+  {
+    "name": "ri-cv",
+    "class": "ri-cv"
+  },
+  {
+    "name": "ri-discord",
+    "class": "ri-discord"
+  },
+  {
+    "name": "ri-discord-fill",
+    "class": "ri-discord-fill"
+  },
+  {
+    "name": "ri-double-quotes-l",
+    "class": "ri-double-quotes-l"
+  },
+  {
+    "name": "ri-double-quotes-r",
+    "class": "ri-double-quotes-r"
+  },
+  {
+    "name": "ri-draft-line",
+    "class": "ri-draft-line"
+  },
+  {
+    "name": "ri-edge",
+    "class": "ri-edge"
+  },
+  {
+    "name": "ri-elegant",
+    "class": "ri-elegant"
+  },
+  {
+    "name": "ri-elusive",
+    "class": "ri-elusive"
+  },
+  {
+    "name": "ri-emotion-happy-line",
+    "class": "ri-emotion-happy-line"
+  },
+  {
+    "name": "ri-emotion-sad-line",
+    "class": "ri-emotion-sad-line"
+  },
+  {
+    "name": "ri-english-input",
+    "class": "ri-english-input"
+  },
+  {
+    "name": "ri-exchange-dollar-line",
+    "class": "ri-exchange-dollar-line"
+  },
+  {
+    "name": "ri-external-link-line",
+    "class": "ri-external-link-line"
+  },
+  {
+    "name": "ri-eye-close",
+    "class": "ri-eye-close"
+  },
+  {
+    "name": "ri-eye-open",
+    "class": "ri-eye-open"
+  },
+  {
+    "name": "ri-facebook-circle",
+    "class": "ri-facebook-circle"
+  },
+  {
+    "name": "ri-facebook-circle-fill",
+    "class": "ri-facebook-circle-fill"
+  },
+  {
+    "name": "ri-facebook-circle-line",
+    "class": "ri-facebook-circle-line"
+  },
+  {
+    "name": "ri-facebook-fill",
+    "class": "ri-facebook-fill"
+  },
+  {
+    "name": "ri-faq-circle",
+    "class": "ri-faq-circle"
+  },
+  {
+    "name": "ri-feathercoin",
+    "class": "ri-feathercoin"
+  },
+  {
+    "name": "ri-file-copy-line",
+    "class": "ri-file-copy-line"
+  },
+  {
+    "name": "ri-file-excel-2-line",
+    "class": "ri-file-excel-2-line"
+  },
+  {
+    "name": "ri-file-history-line",
+    "class": "ri-file-history-line"
+  },
+  {
+    "name": "ri-file-list-3-fill",
+    "class": "ri-file-list-3-fill"
+  },
+  {
+    "name": "ri-file-list-3-line",
+    "class": "ri-file-list-3-line"
+  },
+  {
+    "name": "ri-file-list-line",
+    "class": "ri-file-list-line"
+  },
+  {
+    "name": "ri-file-paper-2-line",
+    "class": "ri-file-paper-2-line"
+  },
+  {
+    "name": "ri-filter-highpass",
+    "class": "ri-filter-highpass"
+  },
+  {
+    "name": "ri-filter-lowpass",
+    "class": "ri-filter-lowpass"
+  },
+  {
+    "name": "ri-filter-off-fill",
+    "class": "ri-filter-off-fill"
+  },
+  {
+    "name": "ri-finance",
+    "class": "ri-finance"
+  },
+  {
+    "name": "ri-fire",
+    "class": "ri-fire"
+  },
+  {
+    "name": "ri-fire-line",
+    "class": "ri-fire-line"
+  },
+  {
+    "name": "ri-firefox",
+    "class": "ri-firefox"
+  },
+  {
+    "name": "ri-firefox-57-70",
+    "class": "ri-firefox-57-70"
+  },
+  {
+    "name": "ri-firefox-nightly",
+    "class": "ri-firefox-nightly"
+  },
+  {
+    "name": "ri-flashlight-fill",
+    "class": "ri-flashlight-fill"
+  },
+  {
+    "name": "ri-flood-line",
+    "class": "ri-flood-line"
+  },
+  {
+    "name": "ri-font-audio",
+    "class": "ri-font-audio"
+  },
+  {
+    "name": "ri-font-size",
+    "class": "ri-font-size"
+  },
+  {
+    "name": "ri-footprint-fill",
+    "class": "ri-footprint-fill"
+  },
+  {
+    "name": "ri-free-fire-max",
+    "class": "ri-free-fire-max"
+  },
+  {
+    "name": "ri-fuel",
+    "class": "ri-fuel"
+  },
+  {
+    "name": "ri-fullscreen-line",
+    "class": "ri-fullscreen-line"
+  },
+  {
+    "name": "ri-furniture",
+    "class": "ri-furniture"
+  },
+  {
+    "name": "ri-gear",
+    "class": "ri-gear"
+  },
+  {
+    "name": "ri-gears",
+    "class": "ri-gears"
+  },
+  {
+    "name": "ri-geometry-dash",
+    "class": "ri-geometry-dash"
+  },
+  {
+    "name": "ri-gift-card",
+    "class": "ri-gift-card"
+  },
+  {
+    "name": "ri-global",
+    "class": "ri-global"
+  },
+  {
+    "name": "ri-global-line",
+    "class": "ri-global-line"
+  },
+  {
+    "name": "ri-global-digital-content",
+    "class": "ri-global-digital-content"
+  },
+  {
+    "name": "ri-google-fill",
+    "class": "ri-google-fill"
+  },
+  {
+    "name": "ri-government",
+    "class": "ri-government"
+  },
+  {
+    "name": "ri-government-line",
+    "class": "ri-government-line"
+  },
+  {
+    "name": "ri-groww",
+    "class": "ri-groww"
+  },
+  {
+    "name": "ri-hq-line",
+    "class": "ri-hq-line"
+  },
+  {
+    "name": "ri-hours-fill",
+    "class": "ri-hours-fill"
+  },
+  {
+    "name": "ri-image-add-line",
+    "class": "ri-image-add-line"
+  },
+  {
+    "name": "ri-instagram-line",
+    "class": "ri-instagram-line"
+  },
+  {
+    "name": "ri-iptv-smarters",
+    "class": "ri-iptv-smarters"
+  },
+  {
+    "name": "ri-linkedin",
+    "class": "ri-linkedin"
+  },
+  {
+    "name": "ri-login-circle-line",
+    "class": "ri-login-circle-line"
+  },
+  {
+    "name": "ri-lock-password-line",
+    "class": "ri-lock-password-line"
+  },
+  {
+    "name": "ri-mastercard-line",
+    "class": "ri-mastercard-line"
+  },
+  {
+    "name": "ri-menu-3-fill",
+    "class": "ri-menu-3-fill"
+  },
+  {
+    "name": "ri-meteor-fill",
+    "class": "ri-meteor-fill"
+  },
+  {
+    "name": "ri-mic-line",
+    "class": "ri-mic-line"
+  },
+  {
+    "name": "ri-mindustry",
+    "class": "ri-mindustry"
+  },
+  {
+    "name": "ri-money-dollar-circle-line",
+    "class": "ri-money-dollar-circle-line"
+  },
+  {
+    "name": "ri-moon-clear-line",
+    "class": "ri-moon-clear-line"
+  },
+  {
+    "name": "ri-music-2-line",
+    "class": "ri-music-2-line"
+  },
+  {
+    "name": "ri-nike",
+    "class": "ri-nike"
+  },
+  {
+    "name": "ri-nzb360",
+    "class": "ri-nzb360"
+  },
+  {
+    "name": "ri-qr-scan-2-line",
+    "class": "ri-qr-scan-2-line"
+  },
+  {
+    "name": "ri-question-help",
+    "class": "ri-question-help"
+  },
+  {
+    "name": "ri-question-line",
+    "class": "ri-question-line"
+  },
+  {
+    "name": "ri-rocket-2-line",
+    "class": "ri-rocket-2-line"
+  },
+  {
+    "name": "ri-rocket-fill",
+    "class": "ri-rocket-fill"
+  },
+  {
+    "name": "ri-road-map-line",
+    "class": "ri-road-map-line"
+  },
+  {
+    "name": "ri-save-fill-data",
+    "class": "ri-save-fill-data"
+  },
+  {
+    "name": "ri-search-2-line",
+    "class": "ri-search-2-line"
+  },
+  {
+    "name": "ri-search-line",
+    "class": "ri-search-line"
+  },
+  {
+    "name": "ri-sensor-alarm",
+    "class": "ri-sensor-alarm"
+  },
+  {
+    "name": "ri-share-forward-line",
+    "class": "ri-share-forward-line"
+  },
+  {
+    "name": "ri-side-bar-fill",
+    "class": "ri-side-bar-fill"
+  },
+  {
+    "name": "ri-skip-down",
+    "class": "ri-skip-down"
+  },
+  {
+    "name": "ri-skip-left",
+    "class": "ri-skip-left"
+  },
+  {
+    "name": "ri-skip-right",
+    "class": "ri-skip-right"
+  },
+  {
+    "name": "ri-skip-up",
+    "class": "ri-skip-up"
+  },
+  {
+    "name": "ri-sound-module-line",
+    "class": "ri-sound-module-line"
+  },
+  {
+    "name": "ri-spam-fill",
+    "class": "ri-spam-fill"
+  },
+  {
+    "name": "ri-speaker-3-line",
+    "class": "ri-speaker-3-line"
+  },
+  {
+    "name": "ri-stumble-guys",
+    "class": "ri-stumble-guys"
+  },
+  {
+    "name": "ri-tablet-fill",
+    "class": "ri-tablet-fill"
+  },
+  {
+    "name": "ri-temp-hot-line",
+    "class": "ri-temp-hot-line"
+  },
+  {
+    "name": "ri-toggle-on-off",
+    "class": "ri-toggle-on-off"
+  },
+  {
+    "name": "ri-tradingview",
+    "class": "ri-tradingview"
+  },
+  {
+    "name": "ri-unifi-network",
+    "class": "ri-unifi-network"
+  },
+  {
+    "name": "ri-vsco",
+    "class": "ri-vsco"
+  },
+  {
+    "name": "ri-wallet-money",
+    "class": "ri-wallet-money"
+  },
+  {
+    "name": "ri-whatsapp-line",
+    "class": "ri-whatsapp-line"
+  },
+  {
+    "name": "ri-wireguard",
+    "class": "ri-wireguard"
+  }
+]
